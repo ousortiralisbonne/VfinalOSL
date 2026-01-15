@@ -16,15 +16,16 @@ const isProduction = import.meta.env.PROD;
 // 3. Ou si explicitement désactivé via VITE_SANITY_USE_CDN=false
 const useCdn = !isProduction && !hasToken && import.meta.env.VITE_SANITY_USE_CDN !== "false";
 
-// Log pour déboguer en développement
-if (import.meta.env.DEV) {
-  console.log('[Sanity Client]', {
-    hasToken,
-    useCdn,
-    tokenLength: sanityToken?.length || 0,
-    projectId: import.meta.env.VITE_SANITY_PROJECT_ID || "z8eiwrv2",
-  });
-}
+// Log pour déboguer (développement et production)
+console.log('[Sanity Client Config]', {
+  hasToken,
+  useCdn,
+  isProduction,
+  tokenLength: sanityToken?.length || 0,
+  projectId: import.meta.env.VITE_SANITY_PROJECT_ID || "z8eiwrv2",
+  dataset: import.meta.env.VITE_SANITY_DATASET || "production",
+  apiUrl: useCdn ? 'CDN (apicdn.sanity.io)' : 'API directe (api.sanity.io)',
+});
 
 const sanityClient = createClient({
   projectId: import.meta.env.VITE_SANITY_PROJECT_ID || "z8eiwrv2",
