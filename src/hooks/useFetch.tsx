@@ -23,8 +23,14 @@ export const useFetch = <T = any>(query: string, params?: Record<string, any>): 
         setIsLoading(false);
       })
       .catch((error: Error) => {
-        console.error('Fetch error:', error);
-        setError(error);
+        console.error('Sanity fetch error:', error);
+        console.error('Query:', query);
+        console.error('Params:', params);
+        // Améliorer le message d'erreur pour inclure plus d'informations
+        const enhancedError = new Error(
+          `Request error while attempting to reach is \`${error.message || 'Unknown error'}\`. Query: ${query.substring(0, 100)}...`
+        );
+        setError(enhancedError);
         setIsLoading(false);
       });
   }, [query, JSON.stringify(params)]);

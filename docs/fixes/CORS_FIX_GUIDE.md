@@ -70,7 +70,23 @@ Assurez-vous que le dataset "production" existe et contient des données :
      .then(console.log)
    ```
 
-### 4. Configuration alternative
+### 4. Désactiver le CDN (solution temporaire)
+
+Si les solutions précédentes ne fonctionnent pas, vous pouvez désactiver le CDN temporairement :
+
+1. **Créer un fichier `.env` à la racine** :
+   ```bash
+   VITE_SANITY_USE_CDN=false
+   ```
+
+2. **Redémarrer le serveur de développement** :
+   ```bash
+   npm run dev
+   ```
+
+⚠️ **Note** : Désactiver le CDN peut ralentir les requêtes. Utilisez cette solution uniquement en développement.
+
+### 5. Configuration alternative
 
 Si le problème persiste, essayez cette configuration :
 
@@ -79,7 +95,7 @@ const sanityClient = createClient({
   projectId: "z8eiwrv2",
   dataset: "production",
   apiVersion: "2023-05-03",
-  useCdn: true,
+  useCdn: false, // Désactiver le CDN
   perspective: "published",
 });
 ```
