@@ -4,6 +4,7 @@ import { createClient } from "@sanity/client";
 // Le CDN Sanity nécessite que le domaine soit dans les CORS origins
 // L'API directe avec token contourne cette restriction
 const sanityToken = import.meta.env.VITE_SANITY_TOKEN;
+const hasToken = !!sanityToken;
 const isProduction = import.meta.env.PROD;
 
 // TOUJOURS désactiver le CDN en production ou si un token est présent
