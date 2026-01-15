@@ -1,0 +1,30 @@
+# robots.txt pour ousortiralisbonne.com
+
+User-agent: *
+Allow: /
+
+# Pages à ne pas indexer (si nécessaire)
+Disallow: /admin/
+Disallow: /api/
+Disallow: /*?*utm_source=
+Disallow: /*?*utm_medium=
+Disallow: /*?*utm_campaign=
+
+# Sitemap
+Sitemap: https://ousortiralisbonne.com/sitemap.xml
+
+# Crawl-delay pour être gentil avec les serveurs
+Crawl-delay: 1
+
+# Directives spécifiques pour les principaux crawlers
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1

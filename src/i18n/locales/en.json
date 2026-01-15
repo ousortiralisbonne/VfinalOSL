@@ -1,0 +1,1653 @@
+{
+  "nav": {
+    "home": "Home",
+    "explore": "Explore Lisbon",
+    "activities": "Activities",
+    "blog": "Blog",
+    "custom": "Custom Tours",
+    "book": "Book Now",
+    "explore_menu": {
+      "restaurants": "Restaurants",
+      "bars": "Bars",
+      "clubs": "Clubs",
+      "events": "Events",
+      "hotels": "Hotels"
+    },
+    "activities_menu": {
+      "tours": "Guided Tours",
+      "boat_trips": "Boat Trips",
+      "wine_tasting": "Wine Tasting",
+      "cooking_classes": "Cooking Classes"
+    },
+    "muchmore": "Much more..."
+  },
+  "hero": {
+    "tagline": "Make Your Life an Event!",
+    "title": {
+      "discover": "Discover the",
+      "best": "Best Experiences",
+      "bestWord": "Best",
+      "experiences": "Experiences",
+      "in": "in Lisbon"
+    },
+    "description": "Explore the must-see events, restaurants, and activities in the city. Unique experiences selected to make your moments unforgettable.",
+    "buttons": {
+      "offers": "See Offers",
+      "more": "Learn More"
+    },
+    "customlabel": "Custom",
+    "explorelabel": "Explore",
+    "quickAccess": "Quick Access",
+    "communitylabel": "Join the Community",
+    "stats": {
+      "places": "Recommended Places",
+      "visitors": "Satisfied Visitors",
+      "support": "Customer Support"
+    }
+  },
+  "categories": {
+    "title": "Categories",
+    "titleHighlight": "Categories",
+    "badge": "Explore by category",
+    "description": "Discover the best experiences Lisbon has to offer, organized by category to facilitate your exploration.",
+    "viewAll": "View all categories",
+    "events": {
+      "name": "Events",
+      "count": "50+ events"
+    },
+    "restaurants": {
+      "name": "Restaurants",
+      "count": "150+ recommendations"
+    },
+    "bars": {
+      "name": "Bars",
+      "count": "80+ establishments"
+    },
+    "clubs": {
+      "name": "Clubs",
+      "count": "20+ recommendations"
+    },
+    "boats": {
+      "name": "Boats",
+      "count": "100+ boats"
+    },
+    "activities": {
+      "name": "Activities",
+      "count": "100+ activities"
+    },
+    "tours": {
+      "name": "Tours",
+      "count": "50+ circuits"
+    }
+  },
+  "restaurants": {
+    "title": "Restaurants in Lisbon",
+    "subtitle": "Discover the best culinary experiences in the city",
+    "filters": {
+      "all": "All restaurants",
+      "cuisines": {
+        "portuguese": "Portuguese",
+        "seafood": "Seafood",
+        "mediterranean": "Mediterranean",
+        "international": "International",
+        "vegetarian": "Vegetarian",
+        "fusion": "Fusion"
+      }
+    },
+    "reviews": "reviews",
+    "book_button": "Book a Table",
+    "specialties": {
+      "bacalhau": "Codfish",
+      "seafood": "Fresh seafood",
+      "wine": "Wine list",
+      "fine dining": "Fine dining",
+      "portuguese": "Portuguese",
+      "contemporary": "Contemporary",
+      "local cuisine": "Local cuisine",
+      "street food": "Street food",
+      "variety": "Variety of cuisines"
+    }
+  },
+  "bars": {
+    "title": "Bars in Lisbon",
+    "subtitle": "Discover the best bars and nightlife spots",
+    "filters": {
+      "all": "All bars",
+      "types": {
+        "cocktails": "Cocktail bars",
+        "wine": "Wine bars",
+        "terrace": "Rooftop & Terrace",
+        "authentic": "Authentic pubs",
+        "sports": "Sports bars",
+        "live_music": "Live music"
+      }
+    },
+    "reviews": "reviews",
+    "book_button": "Book a Table",
+    "tags": {
+      "cocktails": "Cocktails",
+      "speakeasy": "Speakeasy",
+      "intimate": "Intimate",
+      "rooftop": "Rooftop",
+      "views": "City views",
+      "sunset": "Sunset",
+      "historic": "Historic",
+      "unique": "Unique",
+      "cozy": "Cozy"
+    }
+  },
+  "clubs": {
+    "title": "Clubs in Lisbon",
+    "subtitle": "Discover the best nightclubs in the city",
+    "filters": {
+      "all": "All clubs",
+      "genres": {
+        "electro": "Electro",
+        "house": "House",
+        "techno": "Techno",
+        "afrobeat": "Afrobeat",
+        "kizomba": "Kizomba",
+        "trap": "Trap",
+        "indie": "Indie",
+        "pop": "Pop",
+        "rnb": "R&B"
+      }
+    },
+    "reviews": "reviews",
+    "book_button": "Book a VIP Table"
+  },
+  "events": {
+    "title": "Events in Lisbon",
+    "subtitle": "Discover all upcoming events",
+    "filters": {
+      "title": "Filter by theme",
+      "all": "All events",
+      "categories": {
+        "music": {
+          "name": "Music",
+          "description": "Concerts, festivals, showcases, DJ nights"
+        },
+        "art": {
+          "name": "Art",
+          "description": "Exhibitions, pop-up galleries, installations, performances"
+        },
+        "cinema": {
+          "name": "Cinema",
+          "description": "Outdoor screenings, film festivals, advance screenings"
+        },
+        "theater": {
+          "name": "Theater & Shows",
+          "description": "Theater, musicals, dance, stand-up"
+        },
+        "gastronomy": {
+          "name": "Gastronomy",
+          "description": "Tastings, food festivals, cooking classes"
+        },
+        "sports": {
+          "name": "Sports",
+          "description": "Competitions, marathons, initiation, tournaments"
+        },
+        "family": {
+          "name": "Family",
+          "description": "Creative workshops, kids shows, discovery days"
+        },
+        "wellness": {
+          "name": "Wellness",
+          "description": "Yoga, inspirational talks, wellness workshops"
+        },
+        "culture": {
+          "name": "Culture",
+          "description": "Local festivals, markets, traditional celebrations"
+        },
+        "business": {
+          "name": "Business",
+          "description": "Conferences, seminars, networking workshops"
+        }
+      }
+    }
+  },
+  "hotels": {
+    "title": "Hotels in Lisbon",
+    "subtitle": "Find your ideal accommodation in the heart of Lisbon",
+    "filters": {
+      "all": "All hotels",
+      "categories": {
+        "luxury": "Luxury",
+        "boutique": "Boutique",
+        "business": "Business",
+        "family": "Family",
+        "budget": "Budget",
+        "apartments": "Apartments"
+      }
+    },
+    "reviews": "reviews",
+    "book_button": "Book Now"
+  },
+  "featuredEvent": {
+    "tag": "Featured Event",
+    "title": "Fado Festival",
+    "date": "June 15-17, 2024",
+    "time": "7:00 PM - 11:00 PM",
+    "location": "Alfama, Lisbon",
+    "button": "Book Now"
+  },
+  "popularExperiences": {
+    "badge": "Our popular experiences",
+    "title": "Must-See Experiences",
+    "titleStart": "Must-See ",
+    "titleHighlight": "Experiences",
+    "description": "Discover the most appreciated experiences by our visitors, carefully selected to offer you the best of Lisbon.",
+    "reviews": "reviews",
+    "discover": "Discover",
+    "viewAll": "View all experiences",
+    "gastronomy": {
+      "category": "Gastronomy",
+      "title": "Douro Wine Tasting"
+    },
+    "cruise": {
+      "category": "Cruises",
+      "title": "Sunset Cruise"
+    },
+    "culture": {
+      "category": "Culture",
+      "title": "Historical Neighborhood Tour"
+    },
+    "tuktuk": {
+      "category": "Culture",
+      "title": "Panoramic Tour of the 7 Hills by Tuk-Tuk"
+    },
+    "tage": {
+      "category": "Cruises",
+      "title": "Tage River Cruise"
+    },
+    "visiteonfoot": {
+      "category": "Culture",
+      "title": "Private Walking Tour"
+    }
+  },
+  "newsletter": {
+    "title": "Stay informed of our best offers",
+    "placeholder": "Your email address",
+    "button": "Subscribe",
+    "badge": "Stay Informed",
+    "description": "Receive our best recommendations, exclusive offers and news directly in your mailbox.",
+    "loading": "Sending...",
+    "privacyNote": "🔒 Your data is protected. Unsubscribe anytime."
+  },
+  "testimonials": {
+    "badge": "Client testimonials",
+    "title": "What Our Clients Say",
+    "titleStart": "What ",
+    "titleHighlight": "Our Clients Say",
+    "description": "Discover what our clients think about their experiences with us. Authentic testimonials that speak for themselves.",
+    "descriptionStart": "Discover what our clients think about their experiences with us. ",
+    "descriptionHighlight": "Authentic testimonials",
+    "descriptionEnd": " that speak for themselves.",
+    "moreBadge": "More testimonials",
+    "moreTitle": "Find all the testimonials",
+    "moreDescription": "Discover all our customer reviews on our partner platforms",
+    "facebookReviews": "Facebook Reviews",
+    "trustpilot": "Trustpilot",
+    "reviews": {
+      "1": {
+        "textStart": "",
+        "textHighlight": "Incredible!",
+        "textEnd": " Private cruise on a catamaran, very attentive captain, excellent wine, and impeccable boat. A magical moment!",
+        "name": "Virginie"
+      },
+      "2": {
+        "textStart": "",
+        "textHighlight": "Magical day",
+        "textEnd": " in Sintra with Daniel! Perfect itinerary: Pena Palace, Quinta da Regaleira, Cabo da Roca. Very attentive guide!",
+        "name": "Julien Petrez"
+      },
+      "3": {
+        "textStart": "Top experience with Tania! ",
+        "textHighlight": "Perfect organization",
+        "textEnd": ", excellent guide and driver. Exemplary professionalism!",
+        "name": "Catala"
+      }
+    }
+  },
+  "footer": {
+    "categorieslabel": "Categories",
+    "description": "Discover the best experiences in Lisbon with our selection of unique activities, restaurants, and events.",
+    "brandName": "Where to Go in Lisbon",
+    "brandTagline": "Discover the city",
+    "location": "Lisbon, Portugal",
+    "informations": {
+      "label": "Information",
+      "about": "About Us",
+      "becomepartner": "Become a Partner",
+      "legal": "Legal Mentions",
+      "privacy": "Privacy Policy",
+      "cgv": "Terms and Conditions"
+    }
+  },
+  "discovergastrolisbonne": "Discover our gastronomic experiences in Lisbon",
+  "discoveruniqexperience": "Discover other unique experiences in Lisbon",
+  "videoSection": {
+    "badge": "Discover our universe",
+    "title": "Where to Go in Lisbon",
+    "titleStart": "Where to Go in ",
+    "titleHighlight": "Lisbon",
+    "subtitle": "Best Tips and Outings",
+    "description1": "We scour the news and the city to uncover the best activities, bars, events, cultural sites, hotels, unique spots, and restaurants in the city and its region.",
+    "description2": "Follow our content in the news and stories on ",
+    "description3": ", join our community on ",
+    "description4": " and for the purist, follow us on ",
+    "instagram": "Instagram",
+    "whatsapp": "WhatsApp",
+    "facebook": "Facebook",
+    "trustpilot": "See our reviews on",
+    "trustpilotButton": "See reviews",
+    "videoTitle": "Discover Lisbon with our local guides - Where to go in Lisbon"
+  },
+  "communitySection": {
+    "badge": "Join our community",
+    "title": "Connect with us",
+    "titleStart": "Connect ",
+    "titleHighlight": "with us",
+    "description": "Connect with us and discover the best experiences in Lisbon in real-time.",
+    "newsletter": {
+      "title": "Subscribe to the Newsletter",
+      "description": "Our newsletter is perfect for both residents who want to stay informed about events and get new ideas for going out in Lisbon, and for visitors who want to plan their stay in the capital with great tips and tricks.",
+      "placeholder": "Your email address",
+      "button": "Subscribe"
+    },
+    "community": {
+      "title": "Join the Community",
+      "description": "Where to Go in Lisbon is an active network on Facebook, Telegram, and Instagram. We share great tips and ideas for things to do in the capital. Follow our social media to stay up-to-date in real-time and plan your outing in Lisbon.",
+      "facebook": "Facebook",
+      "facebookSubtitle": "Follow our news",
+      "instagram": "Instagram",
+      "instagramSubtitle": "Photos & Stories",
+      "whatsapp": "WhatsApp",
+      "whatsappSubtitle": "Direct chat",
+      "youtube": "YouTube",
+      "youtubeSubtitle": "Videos & Guides"
+    }
+  },
+  "integrationSection": {
+    "badge": "Professional partnership",
+    "title": "Integrate our site and social networks",
+    "titleStart": "Integrate our site and ",
+    "titleHighlight": "social networks",
+    "description1": "Do you have a restaurant, bar, event, exhibition, or activity to propose to our community?",
+    "description2": "Contact us and present your project. If it matches our editorial line, we will send you our integration conditions.",
+    "successTitle": "Message sent!",
+    "successMessage": "Thank you for your message! We will contact you shortly to discuss your project.",
+    "followBadge": "Follow us",
+    "socialDescription": "Stay connected with us on our social networks",
+    "form": {
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone",
+      "company": "Company / Establishment",
+      "website": "Website (optional)",
+      "message": "Your Message",
+      "submit": "Send My Request"
+    },
+    "socialMedia": "You can also tag us on your social media:"
+  },
+  "blog": {
+    "hero": {
+      "title": "Blog - Where to Go in Lisbon",
+      "subtitle": "Guides, tips, and best addresses to make the most of Lisbon"
+    },
+    "readArticle": "Read the article"
+  },
+  "blogPost": {
+    "error": {
+      "missingSlug": "Missing slug",
+      "notFound": "Article not found"
+    },
+    "backToBlog": "Back to blog",
+    "minRead": "min read",
+    "aboutAuthor": "About the author",
+    "expertLisbon": "Lisbon Expert",
+    "authorDescription": "Passionate about Lisbon and its secrets, {{author}} shares discoveries to help you experience the city like a local.",
+    "progress": "Progress",
+    "readingTime": "Reading time",
+    "share": "Share",
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "discoverMore": "Discover more articles",
+    "discoverDescription": "Explore our blog for more inspiration about Lisbon and its hidden treasures",
+    "viewAllArticles": "View all articles",
+    "backToHome": "Back to home"
+  },
+  "wrapper": {
+    "error": {
+      "title": "Loading error",
+      "message": "An error occurred while loading data.",
+      "retry": "Retry"
+    }
+  },
+  "favoritesDrawer": {
+    "title": "My Favorites",
+    "noFavorites": "You have no favorites yet",
+    "bookingForm": {
+      "title": "Book Selection",
+      "fields": {
+        "date": "Date",
+        "time": "Time",
+        "guests": "Number of Guests",
+        "name": "Full Name",
+        "email": "Email",
+        "phone": "Phone",
+        "message": "Message (optional)",
+        "messagePlaceholder": "Your questions, special requests..."
+      },
+      "buttons": {
+        "back": "Back",
+        "confirm": "Confirm"
+      }
+    },
+    "bookSelection": "Book Selection"
+  },
+  "customTours": {
+    "hero": {
+      "title": "Custom Tours",
+      "subtitle": "Personalized solutions for all your needs"
+    },
+    "tourTypes": {
+      "partner": {
+        "title": "Partner",
+        "description": "Do you have a venue, activity, or service to offer?",
+        "benefits": {
+          "1": "Visibility on our platform",
+          "2": "Access to our community",
+          "3": "Booking management",
+          "4": "Marketing support"
+        }
+      },
+      "family": {
+        "title": "Family & Group",
+        "description": "A family trip or friends' getaway? We handle it all!",
+        "benefits": {
+          "1": "Customized program",
+          "2": "French-speaking guide",
+          "3": "Private transportation",
+          "4": "Adapted activities"
+        }
+      },
+      "business": {
+        "title": "Business",
+        "description": "Seminar, team building, or reward trip?",
+        "benefits": {
+          "1": "Complete organization",
+          "2": "Professional activities",
+          "3": "Event logistics",
+          "4": "On-site coordination"
+        }
+      }
+    },
+    "timelineSection": {
+      "title": "How does it work?"
+    },
+    "timeline": {
+      "1": {
+        "title": "First Contact",
+        "description": "Fill out our form or contact us directly. We discuss your preferences and needs."
+      },
+      "2": {
+        "title": "Custom Proposal",
+        "description": "We create a detailed proposal tailored to your expectations and budget."
+      },
+      "3": {
+        "title": "Validation & Organization",
+        "description": "Once the proposal is validated, we handle all the organization."
+      }
+    },
+    "testimonialsSection": {
+      "title": "What our clients say"
+    },
+    "testimonials": {
+      "1": {
+        "text": "An unforgettable experience! Our guide was passionate and adapted the visit to our pace. We discovered secret places we would never have found alone."
+      },
+      "2": {
+        "text": "Perfect for our family of 4. The program was well-balanced between culture, relaxation, and activities for kids. Thank you for this customized organization!"
+      },
+      "3": {
+        "text": "I was traveling alone and wanted an authentic experience. The guide took me to the real Lisbon, local restaurants, and the fascinating history of the city."
+      }
+    },
+    "formSection": {
+      "title": "Contact Us - Lisbon Stay",
+      "fields": {
+        "arrivalDate": "Expected Arrival Date *",
+        "departureDate": "Expected Departure Date *",
+        "totalBudget": "Total Budget for Your Group *",
+        "groupType": "Group Composition *",
+        "adultsCount": "Adults (18-65 years) - Average Age *",
+        "seniorsCount": "Seniors (+65 years)",
+        "minorsCount": "Minors - Age",
+        "mobilityInfo": "Person with mobility issues. Tell us more."
+      },
+      "groupTypes": {
+        "couple": "Couple",
+        "friends": "Friends Group (EVG, EVJF, birthday party...)",
+        "school": "School Group / Sports Group / Association",
+        "family": "Family",
+        "single": "Single",
+        "seminar": "Seminar",
+        "teamBuilding": "Team Building",
+        "other": "Other - Comment"
+      },
+      "submitButton": "Send my request"
+    }
+  },
+  "transfers": {
+    "hero": {
+      "title": "Transfer Service",
+      "subtitle": "Private transfer with driver in Lisbon"
+    },
+    "servicesSection": {
+      "title": "Our Services"
+    },
+    "services": {
+      "airport": {
+        "title": "Airport Transfer",
+        "description": "Pickup at the airport or your hotel",
+        "price": "Starting from 35€"
+      },
+      "hotel": {
+        "title": "Hotel Transfer",
+        "description": "Transport to/from your accommodation",
+        "price": "Starting from 35€"
+      },
+      "excursions": {
+        "title": "Excursions",
+        "description": "Transport for your day trips",
+        "price": "On request"
+      },
+      "events": {
+        "title": "Events",
+        "description": "Transport for weddings, seminars, etc.",
+        "price": "On request"
+      }
+    },
+    "fleetSection": {
+      "title": "Our Fleet",
+      "pricePrefix": "Starting from",
+      "vehicleType": "Transport",
+      "capacity": "Capacity:",
+      "people": "people",
+      "infoButton": "Request Information"
+    },
+    "vehicles": {
+      "car": {
+        "name": "Luxury Car",
+        "capacity": "1-4",
+        "price": "35€",
+        "features": [
+          "Mercedes Class E or similar",
+          "Professional driver",
+          "Air conditioning",
+          "Free WiFi"
+        ]
+      },
+      "minivan7": {
+        "name": "Mini Van 7 seats",
+        "capacity": "1-7",
+        "price": "55€",
+        "features": [
+          "Mercedes Class V or similar",
+          "Generous luggage space",
+          "Air conditioning",
+          "Free WiFi"
+        ]
+      },
+      "minivan12": {
+        "name": "Mini Van 12 seats",
+        "capacity": "1-12",
+        "price": "75€",
+        "features": [
+          "Mercedes Sprinter or similar",
+          "Ideal for groups",
+          "Air conditioning",
+          "Free WiFi"
+        ]
+      },
+      "bus": {
+        "name": "Bus 49 seats",
+        "capacity": "1-49",
+        "price": "150€",
+        "features": [
+          "Large comfort bus",
+          "Perfect for large groups",
+          "Air conditioning",
+          "Free WiFi"
+        ]
+      }
+    },
+    "bookingForm": {
+      "title": "Book Your Transfer",
+      "fields": {
+        "start": "Starting Point",
+        "startPlaceholder": "Airport, hotel, address...",
+        "destination": "Destination",
+        "destinationPlaceholder": "Airport, hotel, address...",
+        "date": "Date",
+        "time": "Time",
+        "passengers": "Number of Passengers",
+        "vehicleType": "Vehicle Type",
+        "vehicleTypePlaceholder": "Select a vehicle",
+        "luggage": "Luggage (number and size)",
+        "childSeat": "Need a child seat?",
+        "fullName": "Full Name",
+        "email": "Email",
+        "phone": "Phone (with country code)",
+        "comments": "Comments or specific requests",
+        "commentsPlaceholder": "Ex. French-speaking driver, stop en route, etc.",
+        "yes": "Yes",
+        "no": "No"
+      },
+      "submitButton": "Request Information",
+      "successMessage": "Thank you for contacting us! We will contact you very soon."
+    }
+  },
+  "guidedTours": {
+    "hero": {
+      "title": "Guided Tours in Lisbon",
+      "subtitle": "Discover Lisbon and its surroundings with our passionate guides. Authentic and personalized experiences to explore the city like a local."
+    },
+    "tours": {
+      "pricePrefix": "Starting from",
+      "priceSuffix": "per person",
+      "type": "Guided tour",
+      "durationPrefix": "Duration:",
+      "maxParticipantsPrefix": "Max",
+      "maxParticipantsSuffix": "participants",
+      "reserveButton": "Reserve now"
+    }
+  },
+  "boatTrips": {
+    "hero": {
+      "title": "Boat Trips",
+      "subtitle": "Less than an hour from the Arrábida Natural Park, set out to meet dolphins in their natural habitat."
+    },
+    "cruiseCard": {
+      "actionLabel": "Request Information"
+    }
+  },
+  "cruiseCard": {
+    "type": "Cruise",
+    "priceOnRequest": "On Request",
+    "pricePrefix": "Starting from",
+    "priceSuffix": "per person",
+    "duration": "Duration:",
+    "capacity": "Capacity:"
+  },
+  "sports": {
+    "hero": {
+      "title": "Sports Activities",
+      "subtitle": "Discover our sports activities in Lisbon and its surroundings"
+    },
+    "filters": {
+      "all": "All Activities"
+    },
+    "activities": {
+      "pricePrefix": "Starting from",
+      "type": "Sports Activity",
+      "duration": "Duration:",
+      "requestInfo": "Request Information"
+    }
+  },
+  "activityModal": {
+    "address": "Address",
+    "hours": "Hours",
+    "price": "Prices",
+    "contact": "Contact",
+    "highlights": "Highlights"
+  },
+  "bookingModal": {
+    "reserve": "Reservation request",
+    "success": {
+      "title": "Reservation Successful!",
+      "message": "Thank you for your reservation. We will contact you shortly."
+    },
+    "close": "Close",
+    "form": {
+      "date": "Date",
+      "time": "Time",
+      "timeSlot": "Time Slot",
+      "selectTimeSlot": "Select Time Slot",
+      "morning": "Morning (11:30 - 13:30)",
+      "afternoon": "Afternoon (15:30 - 17:30)",
+      "guests": "Number of Guests",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "submit": "Submit",
+      "dinnerIncluded": "Would you like a dinner included?",
+      "dietaryRestrictions": "Dietary Restrictions",
+      "specialRequests": "Special Requests",
+      "specialRequestsPlaceholder": "Ex. birthday, special request, etc.",
+      "yes": "Yes",
+      "no": "No",
+      "selectOption": "Select an option",
+      "entryType": "Type of entry desired",
+      "entryTypePlaceholder": "Single entry, VIP table, bottle included, etc.",
+      "musicPreferences": "Music preferences",
+      "additionalComments": "Comments or special requests",
+      "reservationType": "Type of reservation",
+      "reservationTypePlaceholder": "Table, bottles, dinner, audiovisual, etc",
+      "receivegroupmenu": "Would you like to receive the group menu?",
+      "privatespace": "Need information on privatizing space?",
+      "restaurantreservationtype": "Reservation type: (Individual table, group, private space, etc.)",
+      "restaupref": "Culinary Preferences: (Specific cuisine, dietary restrictions, etc.)",
+      "secondDate": "Other Date",
+      "pickupLocation": "Pickup Location",
+      "languages": "Language of the Guide",
+      "departureTime": "Choose Your Departure Time",
+      "accompaniment": "Choose Your Accompaniment",
+      "monuments": "Monuments You Wish to Visit (Indicative Price per Adult)",
+      "vehicles": "Choisissez le(s) véhicule(s) qui vous conviendrai(en)t : *",
+      "vehicleFormulas": "Choisissez votre formule: *",
+      "tickets": "Souhaitez-vous que nous prenions en charge l'achat de vos billets ? *",
+      "ticketsYes": "Oui + 15€ de frais et valeur des tickets",
+      "ticketsNo": "Non",
+      "ticketsYesBus": "Oui + 30€ de frais et valeur des tickets",
+      "participants18to64": "Number of participants between 18 and 64 years old *",
+      "participants6to17": "Number of participants between 6 and 17 years old *",
+      "participants65plus": "Number of participants 65 years and older *",
+      "participantsUnder6": "Number of participants under 6 years old *",
+      "sunsetCruise": "Sunset Cruise",
+      "totalPrice": "Total Price",
+      "promoCode": "Promo Code",
+      "numberOfPeople": "Number of People",
+      "departureCity": "Departure City",
+      "docTax": "Doc Tax",
+      "hours": "Preferred Hours",
+      "boatChoice": "Boat Choice",
+      "boatLicense": "Boat License or with Crew?",
+      "extras": "Extras",
+      "setubal": "Setubal (No Tax)",
+      "troia": "Troia (Doc Tax: +25 €)",
+      "permis": "Boat License",
+      "equipage": "Crew: +70 € (-2 seats)",
+      "boatOptions": "Which boat would you like?",
+      "nightOnBoard": "Night on Board for 575€ with a meal included"
+    },
+    "boatOptions": {
+      "keltAzura": "Kelt Azura / 5pers : 180 €",
+      "saver": "Saver / 6pers : 210 €",
+      "cad": "CAD / 6pers : 210 €",
+      "sanRemo": "San Remo / 7pers : 220 €",
+      "selva": "Selva / 7pers : 220 €",
+      "nireus": "Nireus / 8pers : 240 €",
+      "sacs": "SACS / 10pers : 250 €",
+      "bwa": "BWA / 12pers : 290 €",
+      "voilier6": "Sailboat 6 places from 170€ for 2h30 (sunset + 30€)",
+      "catamaran8": "Catamaran 8 places from 180€ for 2h",
+      "voilier10": "Sailboat 10 places from 300€ for 2h",
+      "catamaran18": "Catamaran 18 places from 650€ for 2h"
+    },
+    "extras": {
+      "bouee": "Bouée : +40 €",
+      "wakeboard": "Wakeboard : +40 €",
+      "skiNautique": "Ski Nautique : +40 €"
+    },
+    "timeSlot": {
+      "10h-12h": "10h - 12h",
+      "12h30-14h30": "12h30 - 14h30",
+      "15h-17h": "15h - 17h",
+      "sunset": "Sunset"
+    },
+    "languages": {
+      "german": "German",
+      "english": "English",
+      "spanish": "Spanish",
+      "french": "French",
+      "italian": "Italian",
+      "portuguese": "Portuguese",
+      "any": "Any",
+      "other": "Other"
+    },
+    "departureTime": {
+      "8h15": "8h15 (recommended for morning calm)",
+      "9h30": "9h30",
+      "10h30": "10h30",
+      "11h30": "11h30",
+      "other": "Other"
+    },
+    "accompaniment": {
+      "driver": "With Driver",
+      "driverGuide": "With Driver-Guide"
+    },
+    "monuments": {
+      "palacioPenaInterior": "Palacio da Pena - Garden and Interior (with entry time) 20€",
+      "palacioPenaGarden": "Palacio da Pena - Garden - The Must-See (our recommendation) 10€",
+      "quintaRegaleira": "Quinta da Regaleira (with entry time) 16.11€",
+      "palacioMonserrate": "Palacio de Monserrate (our suggestion) 12€",
+      "palacioNacional": "Palacio Nacional de Sintra 13€",
+      "casteloMorros": "Castelo dos Morros 12€",
+      "palacioQueluz": "Palacio de Queluz 13€",
+      "historicalCenter": "Discover the historical center of Sintra",
+      "none": "None of the interior"
+    },
+    "sunsetCruise": {
+      "title": "Sunset Cruise Options",
+      "description": "Choose from our various sunset cruise options:",
+      "calm": "Calm",
+      "sailboat": "Sailboat (12 people)",
+      "catamaran18": "Catamaran (18 people)",
+      "yacht": "Yacht (25 people)",
+      "festive": "Festive",
+      "catamaran60": "Catamaran (60 people)",
+      "motorboat": "Motorboat (220 people)",
+      "boatParty": "Boat Party",
+      "boatPartyLink": "Boat Party on Saturday Summer",
+      "voilier6": "Sailboat 6 places from 170€ for 2h30 (sunset + 30€)",
+      "catamaran8": "Catamaran 8 places from 180€ for 2h",
+      "voilier10": "Sailboat 10 places from 300€ for 2h",
+      "catamaran188": "Catamaran 18 places from 650€ for 2h"
+    }
+  },
+  "locations": {
+    "lisbon": "Lisbon",
+    "cascais": "Cascais",
+    "setubal": "Setúbal"
+  },
+  "cruiseTypes": {
+    "all": "All Cruises",
+    "group": "Group Cruise",
+    "private": "Private Cruise"
+  },
+  "all": "All",
+  "about": {
+    "hero": {
+      "badge": "Our Story",
+      "title": "About",
+      "subtitle": "Welcome to 'Where to Go in Lisbon'!"
+    },
+    "stats": {
+      "happyClients": "Happy Clients",
+      "rating": "Average Rating",
+      "yearsExperience": "Years of Experience",
+      "languages": "Languages Spoken"
+    },
+    "content": {
+      "introLabel": "Who We Are",
+      "intro": "I am Tania Barros, a Lusophone and the creator of this site, born out of my passion for Lisbon and my desire to share its treasures with you.",
+      "section1": {
+        "badge": "Our Passion",
+        "title": "From France to Portugal: A Return to Roots",
+        "text1": "Originally from Portugal, I grew up in France after my family moved there when I was just one year old. I lived my first experiences: my first words, my studies, my first professional adventures. After several years in Picardy and Normandy, I felt the need to return to my native country. At the age of 27, I made one of the best decisions of my life: returning to live in Portugal.",
+        "text2": "Here, I immediately felt at home. The warm welcome, the friendliness, the cultural richness, the gastronomy, the mild climate... Everything that makes the magic of Portugal gave me the desire to share it with others."
+      },
+      "section2": {
+        "badge": "Our Mission",
+        "title": "A Double Hat: Communication and Tourism",
+        "text1": "My professional career first led me to communication and events, where I held responsible positions for companies like Bouygues Telecom and Apple. In parallel, I cultivated my passion for events by collaborating with bars, clubs, restaurants, and production agencies.",
+        "text2": "Then, by a fortunate coincidence, I became a tour guide seven years ago. This was a revelation: combining my passion for Lisbon, meeting people, and organizing unique experiences became an obvious choice. Specializing in Street Art, I surrounded myself with an incredible network of guides, restaurateurs, artists, and tourism professionals, allowing me to offer customized experiences."
+      },
+      "section3": {
+        "badge": "Our Services",
+        "title": "'Where to Go in Lisbon': Your Personalized Guide",
+        "text1": "Thus was born 'Where to Go in Lisbon': an evolving site, fed by my discoveries and encounters, where I share the best addresses and experiences to explore the city differently. Today, I work with:",
+        "list": [
+          "A dozen passionate guides,",
+          "Fifty boat crews for nautical experiences,",
+          "Many drivers, restaurateurs, artists, and instructors,",
+          "And an infinite number of experiences tailored to each traveler."
+        ],
+        "text2": "Whether you are in a couple, family, with friends, or on business, I accompany you in your discovery of Lisbon with authentic recommendations and customized services."
+      },
+      "section4": {
+        "badge": "Our Land",
+        "title": "More Than Just a Guide, a Human Experience",
+        "text": "By choosing 'Where to Go in Lisbon', you benefit from personalized advice, a selection of trusted partners, and above all, a human and passionate service."
+      },
+      "contact": {
+        "badge": "Contact Us",
+        "title": "Want to discover Lisbon differently?",
+        "text": "Contact me to organize your customized stay!",
+        "email": "contact@ousortiralisbonne.com",
+        "phone": "+351 966 998 827"
+      }
+    },
+    "images": {
+      "guideTouristique": "Passionate Tour Guide",
+      "historicalQuarters": "Discovering Historical Quarters",
+      "authenticExperiences": "Authentic Experiences in Lisbon"
+    }
+  },
+  "legalNotice": {
+    "hero": {
+      "title": "Legal Notice",
+      "subtitle": "Où sortir à Lisbonne"
+    },
+    "content": {
+      "editor": {
+        "title": "Site Editor",
+        "description": "The site Où sortir à Lisbonne, accessible at https://www.ousortiralisbonne.com, is edited by:",
+        "name": "Tania Barros",
+        "address": "Rua Alto Minho 159, 4770-538 Arnoso Santa Maria",
+        "phone": "+351 966 998 827",
+        "email": "contact@ousortiralisbonne.com",
+        "note": "(hereinafter referred to as 'the Editor')"
+      },
+      "publicationResponsible": {
+        "title": "Publication Director",
+        "director": "Publication Director: Tania Barros",
+        "contact": "+351 966 998 827",
+        "email": "contact@ousortiralisbonne.com"
+      },
+      "hosting": {
+        "title": "Website Hosting",
+        "description": "The site is hosted by:",
+        "name": "OVHcloud",
+        "type": "Simplified joint-stock company",
+        "siren": "SIREN: 424 761 419",
+        "address": "2 rue Kellermann – 59100 Roubaix – France",
+        "phone": "09 72 10 10 07",
+        "website": "https://www.ovhcloud.com"
+      },
+      "intellectualProperty": {
+        "title": "Intellectual Property",
+        "intro": "All content on the Où sortir à Lisbonne website, including but not limited to:",
+        "list": [
+          "texts",
+          "photographs",
+          "illustrations",
+          "still or animated images",
+          "videos",
+          "sounds",
+          "logos",
+          "graphic elements",
+          "site structure",
+          "editorial content"
+        ],
+        "description1": "is protected by the applicable intellectual property laws.",
+        "description2": "These elements are the exclusive property of the Editor or its partners, unless otherwise stated.",
+        "description3": "Any reproduction, representation, modification, publication, adaptation, or exploitation, in whole or in part, of these elements, by any means whatsoever, without prior written authorization from the Editor, is strictly prohibited and constitutes infringement punishable under the Intellectual Property Code.",
+        "description4": "The Editor's failure to take legal action against unauthorized use does not constitute a waiver of its rights."
+      },
+      "hypertextLinks": {
+        "title": "Hypertext Links",
+        "intro": "The Où sortir à Lisbonne website may contain hypertext links redirecting to third-party websites.",
+        "disclaimer": "The Editor has no control over the content of these sites and cannot be held responsible for:",
+        "list": [
+          "their content",
+          "their privacy policy",
+          "their operation",
+          "or any damage that may result from visiting them"
+        ],
+        "note": "The creation of hypertext links to the site is authorized provided they do not harm its image or interests."
+      },
+      "liability": {
+        "title": "Liability",
+        "description": "The Editor strives to provide information on the site that is as accurate as possible. However, it cannot guarantee the accuracy, completeness, or timeliness of the information published.",
+        "note": "Use of the site is at the user's sole responsibility."
+      },
+      "applicableLaw": {
+        "title": "Applicable Law",
+        "description": "These legal notices are governed by French law.",
+        "note": "In case of dispute, and failing amicable resolution, the competent courts shall be those with jurisdiction."
+      },
+      "contact": {
+        "title": "For any questions or requests regarding the Où sortir à Lisbonne website, please do not hesitate to contact us!"
+      }
+    }
+  },
+  "privacyPolicy": {
+    "hero": {
+      "title": "Privacy Policy",
+      "lastUpdated": "Last updated: 19/02/2025"
+    },
+    "content": {
+      "intro": {
+        "text1": "Welcome to Où sortir à Lisbonne. The protection of your data is our priority. This privacy policy explains how we collect, use, and protect your personal information when you use our site www.ousortiralisbonne.com (hereinafter referred to as 'the Service').",
+        "text2": "By accessing our site and using our services, you accept the terms of this policy and consent to the collection and use of your personal data in accordance with the provisions below."
+      },
+      "whoWeAre": {
+        "title": "1. Who We Are",
+        "description": "The site Où sortir à Lisbonne is operated by Tania Barros ('we', 'our', 'us').",
+        "address": "Address: Rua Alto Minho 159, 4770-538 Arnoso Santa Maria",
+        "phone": "Phone: +351 966 998 827",
+        "email": "Email: contact@ousortiralisbonne.com"
+      },
+      "definitions": {
+        "title": "2. Definitions",
+        "service": {
+          "title": "Service",
+          "description": "Refers to the Où sortir à Lisbonne website, operated by Tania Barros."
+        },
+        "personalData": {
+          "title": "Personal Data",
+          "description": "Refers to any information that can identify a living individual, directly or indirectly."
+        },
+        "usageData": {
+          "title": "Usage Data",
+          "description": "Refers to data collected automatically while using the Service (IP address, browser type, pages visited, etc.)."
+        },
+        "cookies": {
+          "title": "Cookies",
+          "description": "Small files recorded on your device to improve your user experience."
+        },
+        "dataController": {
+          "title": "Data Controller",
+          "description": "Refers to the person or entity that determines the purposes and means of processing personal data. In this case, it is Tania Barros."
+        }
+      },
+      "dataCollection": {
+        "title": "3. Data Collected and Their Usage",
+        "personalData": {
+          "title": "Personal Data",
+          "description": "When you use our Service, we may collect the following information:",
+          "list": [
+            "Name and surname",
+            "Email address",
+            "Navigation data (via cookies and analytics tools)"
+          ],
+          "note": "These information are collected solely for the purpose of managing the Service, improving user experience, and, if you consent, sending marketing communications."
+        },
+        "usageData": {
+          "title": "Usage Data",
+          "description": "We also collect technical data to better understand how you use our Service:",
+          "list": [
+            "IP address",
+            "Browser type and version",
+            "Pages visited and time spent on each page",
+            "Unique identifiers of your device"
+          ]
+        },
+        "cookies": {
+          "title": "Cookies and Tracking Technologies",
+          "description": "We use cookies for:",
+          "list": [
+            "Improving your navigation on our site",
+            "Storing your preferences",
+            "Ensuring the security of the Service"
+          ],
+          "types": {
+            "title": "Types of cookies used:",
+            "session": "Session cookies: ensure the proper functioning of the Service",
+            "preferences": "Preference cookies: record your choices and settings",
+            "security": "Security cookies: protect your data against potential threats"
+          }
+        }
+      },
+      "legalBasis": {
+        "title": "4. Legal Basis for Data Processing (GDPR)",
+        "description": "According to the General Data Protection Regulation (GDPR), we process your personal data on the following bases:",
+        "list": [
+          {
+            "title": "Contract Performance",
+            "description": "If we need your data to provide you with a service."
+          },
+          {
+            "title": "Consent",
+            "description": "When you give us your consent to receive our communications."
+          },
+          {
+            "title": "Legal Obligation",
+            "description": "If the law requires us to keep certain information."
+          },
+          {
+            "title": "Legitimate Interest",
+            "description": "To improve our Service without affecting your fundamental rights."
+          }
+        ]
+      },
+      "dataRetention": {
+        "title": "5. Data Retention",
+        "description": "We retain your data only for as long as necessary for the purposes for which it was collected:",
+        "list": [
+          "Navigation data: limited duration for analysis and security",
+          "Personal data: until you request its deletion or in accordance with applicable legal obligations"
+        ]
+      },
+      "dataSharing": {
+        "title": "6. Data Sharing and Transfer",
+        "description": "We do not sell or rent your personal data. However, we may share it with:",
+        "list": [
+          "Our service providers (hosting, analytics tools, emailing)",
+          "Competent authorities, if the law requires it"
+        ],
+        "note": "We take all necessary measures to ensure the security of your data in case of transfer outside the EU."
+      },
+      "userRights": {
+        "title": "7. Your Rights (GDPR)",
+        "description": "As a user of the Service, you have the following rights:",
+        "list": [
+          {
+            "title": "Right of Access",
+            "description": "Obtain a copy of your personal data"
+          },
+          {
+            "title": "Right to Rectification",
+            "description": "Correct inaccurate information"
+          },
+          {
+            "title": "Right to Erasure",
+            "description": "Request the deletion of your data"
+          },
+          {
+            "title": "Right to Restriction",
+            "description": "Restrict the processing of your data"
+          },
+          {
+            "title": "Right to Object",
+            "description": "Refuse the use of your data"
+          },
+          {
+            "title": "Right to Data Portability",
+            "description": "Retrieve your data in a reusable format"
+          }
+        ],
+        "contact": "To exercise these rights, contact us at: contact@ousortiralisbonne.com"
+      },
+      "dataSecurity": {
+        "title": "8. Data Security",
+        "description": "We implement appropriate security measures to protect your data against any loss, theft, or unauthorized access. However, no data transmission over the Internet is completely secure. We recommend being vigilant when sharing information online."
+      },
+      "thirdPartyLinks": {
+        "title": "9. Links to Third-Party Sites",
+        "description": "Our Service may contain links to other websites. We are not responsible for the privacy policies of these sites and recommend that you review them before sharing your information."
+      },
+      "dataDisclosure": {
+        "title": "10. Disclosure of Data to Law Enforcement",
+        "description": "In certain cases, we may be required to disclose your personal data if the law requires it or in response to legitimate requests from public authorities."
+      },
+      "policyUpdates": {
+        "title": "11. Modifications to This Policy",
+        "description": "We reserve the right to modify this Privacy Policy at any time. Any update will be published on this page with a new update date.",
+        "note": "We encourage you to regularly review this page to stay informed."
+      },
+      "contact": {
+        "title": "12. Contact",
+        "description": "If you have any questions or wish to exercise your rights regarding your personal data, you can contact us:",
+        "email": "Email: contact@ousortiralisbonne.com",
+        "phone": "Phone: +351 966 998 827"
+      },
+      "acceptance": {
+        "title": "By using Où sortir à Lisbonne, you accept our Privacy Policy and our terms of use."
+      }
+    }
+  },
+  "terms": {
+    "hero": {
+      "title": "General Terms and Conditions of Sale",
+      "subtitle": "WHERE TO GO OUT IN LISBON",
+      "lastUpdated": "Last updated: December 15, 2025"
+    },
+    "content": {
+      "presentation": {
+        "title": "1. Presentation",
+        "text1": "These General Terms and Conditions of Sale (hereinafter \"GTC\") govern the use of the Où sortir à Lisbonne website and the booking of services offered through it.",
+        "text2": "The terms \"we\", \"our\" or \"Où sortir à Lisbonne\" refer to:",
+        "text3": "Tania Barros, independent entrepreneur (ID 280054785), and her partners.",
+        "text4": "The term \"user\" or \"customer\" refers to any person browsing the site or booking a service.",
+        "text5": "Any use of the site or booking implies full and complete acceptance of these GTC."
+      },
+      "siteObject": {
+        "title": "2. Purpose of the site",
+        "description": "The Où sortir à Lisbonne website aims to:",
+        "list": [
+          "present activities, outings and experiences in Lisbon",
+          "offer connection services with local providers",
+          "facilitate booking of tourist or event experiences",
+          "provide advice, recommendations and informative content"
+        ]
+      },
+      "acceptance": {
+        "title": "3. Acceptance of conditions",
+        "text1": "Using the site implies acceptance of these GTC as well as the Privacy Policy.",
+        "text2": "These conditions may be modified at any time.",
+        "text3": "The applicable version is the one in effect on the date of browsing or booking."
+      },
+      "siteUsage": {
+        "title": "4. Use of the site",
+        "description": "The user agrees to:",
+        "list": [
+          "provide accurate and up-to-date information",
+          "use the site for personal and non-fraudulent purposes",
+          "not interfere with the proper functioning of the site"
+        ],
+        "consequence": "Any abusive, fraudulent or illegal use may result in suspension of access to the site."
+      },
+      "reservations": {
+        "title": "5. Bookings and services",
+        "subtitle1": "5.1 How it works",
+        "text1": "Bookings made through the site concern:",
+        "list1": [
+          "tourist experiences",
+          "leisure activities",
+          "services organized by third-party partners"
+        ],
+        "intermediary": "\"Où sortir à Lisbonne\" acts as an intermediary and facilitator between the customer and the providers.",
+        "subtitle2": "5.2 Booking validation",
+        "text2": "A booking is considered effective once:",
+        "list2": [
+          "the request has been validated",
+          "payment has been made (if applicable)",
+          "confirmation has been sent by email"
+        ],
+        "subtitle3": "5.3 Third-party providers",
+        "text3": "Services are provided by independent partners.",
+        "text4": "\"Où sortir à Lisbonne\" cannot be held responsible for poor execution of a service by a third party, but commits to supporting the customer in case of dispute."
+      },
+      "pricing": {
+        "title": "6. Prices and payment",
+        "text1": "Prices are indicated in euros (€) and may be:",
+        "list": [
+          "fixed",
+          "variable depending on the service",
+          "subject to specific conditions"
+        ],
+        "text2": "Payment is made via secure payment providers.",
+        "text3": "Banking information is never stored by \"Où sortir à Lisbonne\"."
+      },
+      "withdrawal": {
+        "title": "7. Right of withdrawal",
+        "text1": "In accordance with Article L221-28 of the Consumer Code, the right of withdrawal does not apply to:",
+        "list": [
+          "dated services",
+          "leisure activities provided on a specific date",
+          "services executed immediately after booking"
+        ],
+        "text2": "No refund can be claimed except as otherwise indicated or in exceptional cases."
+      },
+      "cancellation": {
+        "title": "8. Cancellation and modification",
+        "text1": "Cancellation conditions depend on each service and are specified at the time of booking.",
+        "text2": "In case of cancellation by the provider, a replacement solution or refund may be offered."
+      },
+      "liability": {
+        "title": "9. Liability",
+        "description": "\"Où sortir à Lisbonne\":",
+        "list": [
+          "does not guarantee the absolute accuracy of published information",
+          "cannot be held responsible for damage related to a service provided by a third party",
+          "is not responsible for decisions made by the user based on the site's information"
+        ],
+        "note": "The user remains responsible for their behavior during booked activities."
+      },
+      "intellectualProperty": {
+        "title": "10. Intellectual property",
+        "text1": "All content on the site (texts, visuals, logos, videos, structure) is protected by intellectual property law.",
+        "text2": "Any reproduction, distribution or use without written authorization is strictly prohibited."
+      },
+      "personalData": {
+        "title": "11. Personal data",
+        "text1": "Personal data collected is processed in accordance with the site's Privacy Policy.",
+        "text2": "The user has the right to:",
+        "list": [
+          "access",
+          "rectification",
+          "deletion",
+          "opposition"
+        ],
+        "contact": "Any request can be sent to:",
+        "email": "contact@ousortiralisbonne.com"
+      },
+      "electronicCommunications": {
+        "title": "12. Electronic communications",
+        "text1": "By using the site, the user agrees to receive email communications related to:",
+        "list": [
+          "their bookings",
+          "practical information",
+          "offers or news"
+        ],
+        "text2": "They can unsubscribe at any time."
+      },
+      "mediation": {
+        "title": "13. Mediation and disputes",
+        "text1": "In case of dispute with a provider, \"Où sortir à Lisbonne\" acts as an intermediary to facilitate an amicable resolution.",
+        "text2": "Failing an amicable agreement, the dispute will be subject to applicable law."
+      },
+      "applicableLaw": {
+        "title": "14. Applicable law",
+        "text1": "These GTC are governed by French law.",
+        "text2": "Any dispute falls under the jurisdiction of the competent courts."
+      }
+    }
+  },
+  "onquote": "On quote",
+  "onrdv": "By appointment",
+  "variable": "Variable",
+  "free": "Free",
+  "viewdetails": "See details",
+  "freedrink": "1 drink included",
+  "telluseverything": "Tell us everything",
+  "firstname": "First name",
+  "lastname": "Last name",
+  "emptyfilteredlist": "No boat trips match your filters. Try with different ones!",
+  "yes": "Yes",
+  "no": "No",
+  "recontactPreference": "Would you like to be contacted ?",
+  "selectDay": "Select a day",
+  "custom": "Custom",
+  "rightsreserved": "All rights reserved",
+  "withlove": "Designed with passion by",
+  "subscribenews": "I would like to subscribe to the newsletter",
+  "language": "Language",
+  "languages": {
+    "de": "German",
+    "en": "English",
+    "it": "Italian",
+    "fr": "French",
+    "pt": "Portuguese",
+    "es": "Spanish",
+    "other": "Other"
+  },
+  "addReturnTransfer": "Add Return Transfer",
+  "returnDate": "Return Date",
+  "romanticinclusion": "Overnight stay on board for €575 with one meal included",
+  "guidLanguage": "Guide language",
+  "otherDate": "Other date",
+  "withequipage": "With crew? (+70€)",
+  "vehicleOptions": {
+    "decapotable": "Decapotable Opel Astra up to 3 passengers (230€)",
+    "combi": "Combi Volkswagen from 1970 up to 5 passengers (95€ per person)",
+    "van": "Van up to 8 passengers (price adjusted by number of passengers)",
+    "minibus": "Minibus from 9 to 19 passengers",
+    "bus": "Bus from 23 to 63 passengers (quote on request)"
+  },
+  "vehicleFormulas": {
+    "van": {
+      "2": "2 passengers (180€ driver / 220€ driver-guide)",
+      "3": "3 passengers (190€ driver / 250€ driver-guide)",
+      "4": "4 passengers (220€ driver / 280€ driver-guide)",
+      "5": "5 passengers (245€ driver / 300€ driver-guide)",
+      "6": "6 passengers (270€ driver / 320€ driver-guide)",
+      "7": "7 or 8 passengers (300€ driver / 350€ driver-guide)"
+    },
+    "minibus": {
+      "16": "Up to 16 passengers - 560€ driver / 800€ driver + guide",
+      "19": "Up to 19 passengers - 640€ driver / 880€ driver + guide"
+    }
+  },
+  "engagement": "With 12-month commitment",
+  "cruiseModal": {
+    "reserve": "Reserve",
+    "success": {
+      "title": "Reservation Successful",
+      "message": "Your reservation has been successfully submitted."
+    },
+    "close": "Close",
+    "form": {
+      "participants": "Maximum number of participants",
+      "date": "Preferred Date",
+      "secondDate": "Alternative Date",
+      "departureTime": "Preferred Departure Time",
+      "duration": "Preferred Duration (hours)",
+      "boatTypes": "Preferred Boat Type(s)",
+      "criteria": "Most Important Criteria",
+      "event": "Is this for a specific event?",
+      "extras": "Receive information on the following extras",
+      "experiences": "Receive information on the following experiences",
+      "submit": "Submit"
+    },
+    "boatTypes": {
+      "voilier": "Sailboat",
+      "catamaran": "Catamaran",
+      "yacht": "Yacht",
+      "peuImporte": "Doesn't Matter",
+      "ceBateau": "This Boat Specifically"
+    },
+    "criteria": {
+      "date": "The Date",
+      "creneau": "The Time Slot",
+      "tarif": "The Best Price",
+      "service": "Premium Service",
+      "type": "Boat Type",
+      "autre": "Other"
+    },
+    "extras": {
+      "boissons": "Bring drinks and food / corkage fee",
+      "openBar": "Drinks / Open bar",
+      "snacks": "Snacks, cheese boards, charcuterie...",
+      "reception": "Reception, buffet, Menu...",
+      "barbecue": "Barbecue (4-hour experience minimum)",
+      "brunch": "Brunch",
+      "fruitsDeMer": "Seafood",
+      "gateau": "Birthday Cake",
+      "sushi": "Sushi",
+      "vegetarien": "Vegetarian - Vegan",
+      "autre": "Other"
+    },
+    "experiences": {
+      "romantique": "Romantic Ambiance",
+      "evg": "Special EVG/EVJF Ambiance (strip tease/topless...)",
+      "barman": "Barman / Cocktails",
+      "boatParty": "Boat Party with DJ",
+      "fado": "Fado or Live Music",
+      "guide": "French-speaking Guide / Crew",
+      "nuits": "Night(s) or Multiple Days Aboard",
+      "photographe": "Photographer / Videographer",
+      "peche": "Fishing 🎣",
+      "planche": "Paddle Board / Buoy",
+      "teamBuilding": "Special Team Building",
+      "sushiMan": "Sushi Man",
+      "autre": "Other"
+    }
+  },
+  "cookieConsent": {
+    "title": "🍪 We use cookies",
+    "description": "We use cookies to improve your experience on our site. These cookies allow us to analyze traffic, personalize content and advertising, and provide social media features.",
+    "privacyLink": "Privacy Policy",
+    "legalLink": "Legal Notice",
+    "decline": "Decline",
+    "accept": "Accept"
+  },
+  "whatsapp": {
+    "defaultMessage": "Hello Tania, I'm contacting you through your website Where to Go in Lisbon.",
+    "ariaLabel": "Contact on WhatsApp",
+    "contactText": "Contact Tania"
+  },
+  "loading": {
+    "logoAlt": "Where to Go in Lisbon Logo"
+  },
+  "tourFilters": {
+    "title": "Filters",
+    "reset": "Reset",
+    "city": "City",
+    "transport": "Transport",
+    "type": "Type",
+    "noResults": "No tours match your filters. Try different criteria!",
+    "cities": {
+      "lisbon": "Lisbon",
+      "cascais": "Cascais",
+      "sintra": "Sintra",
+      "arrabida": "Arrábida",
+      "other": "Other"
+    },
+    "transports": {
+      "foot": "On foot",
+      "bike": "By bike",
+      "tuktuk": "By tuktuk",
+      "sidecar": "By sidecar",
+      "vehicle": "By vehicle",
+      "boat": "By boat",
+      "helicopter": "Helicopter"
+    },
+    "types": {
+      "cultural": "Cultural",
+      "historical": "Historical",
+      "streetart": "Street Art",
+      "gastronomic": "Gastronomic",
+      "other": "Other"
+    }
+  },
+  "membershipModal": {
+    "consent": {
+      "label": "I accept the",
+      "terms": "Terms and Conditions",
+      "privacy": "Privacy Policy"
+    }
+  },
+  "sunsetCruise": {
+    "title": "Sunset Cruise Options",
+    "description": "Choose from our different sunset cruise options:",
+    "calm": "Calm",
+    "sailboat": "Sailboat (12 people)",
+    "catamaran18": "Catamaran (18 people)",
+    "yacht": "Yacht (25 people)",
+    "festive": "Festive",
+    "catamaran60": "Catamaran (60 people)",
+    "motorboat": "Motorboat (220 people)",
+    "boatParty": "Boat Party",
+    "boatPartyLink": "Summer Saturday Boat Party",
+    "voilier6": "Sailboat 6 seats from €170 for 2h30 (sunset + €30)",
+    "catamaran8": "Catamaran 8 seats from €180 for 2h",
+    "voilier10": "Sailboat 10 seats from €300 for 2h",
+    "catamaran188": "Catamaran 18 seats from €650 for 2h"
+  },
+  "seoContent": {
+    "restaurants": {
+      "title": "Best Restaurants in Lisbon 2025",
+      "intro": "Discover our selection of the best restaurants in Lisbon, carefully curated by our team of local guides. From traditional Portuguese cuisine to Michelin-starred fine dining, including hidden gems in Alfama and Chiado, find the perfect restaurant for your evening in Lisbon.",
+      "sections": {
+        "traditional": {
+          "title": "Traditional Portuguese Restaurants",
+          "content": "Lisbon is full of tascas and traditional restaurants where you can taste the famous bacalhau (codfish), grilled sardines, and cozido à portuguesa. Our recommendations guide you to authentic addresses where Lisbonites themselves gather to enjoy their grandmothers' recipes."
+        },
+        "view": {
+          "title": "Restaurants with Tagus River Views",
+          "content": "For an unforgettable experience, choose a restaurant with views of the Tagus or Lisbon's rooftops. From Belém terraces to Bairro Alto rooftops, discover the most beautiful panoramas of the Portuguese capital while enjoying refined dishes."
+        },
+        "budget": {
+          "title": "Where to Eat Cheap in Lisbon",
+          "content": "Eating well in Lisbon doesn't have to break the bank. We've selected addresses offering excellent value for money, from neighborhood canteens to lunch spots with menu do dia for less than €10."
+        }
+      },
+      "faqTitle": "Frequently Asked Questions About Lisbon Restaurants",
+      "faqs": {
+        "best": {
+          "question": "What is the best restaurant in Lisbon?",
+          "answer": "The best restaurant depends on your tastes! For traditional Portuguese cuisine, we recommend Alfama restaurants. For modern gastronomy, Chiado and Príncipe Real restaurants offer exceptional experiences. Check our selection to find the address that matches your desires."
+        },
+        "cheap": {
+          "question": "Where to eat cheap in Lisbon?",
+          "answer": "To eat cheaply in Lisbon, look for restaurants offering 'menu do dia' (daily menu) between €8 and €12. Mouraria and Intendente neighborhoods offer excellent budget options. Traditional tascas also serve hearty dishes at low prices."
+        },
+        "neighborhood": {
+          "question": "Which neighborhood to choose for dining in Lisbon?",
+          "answer": "Each neighborhood has its personality: Alfama for authenticity and fado, Chiado and Bairro Alto for trendy vibes, Belém for Tagus views, and Santos/Cais do Sodré for trendy concepts. Príncipe Real attracts foodies with its creative restaurants."
+        },
+        "reservation": {
+          "question": "Should I book in advance at Lisbon restaurants?",
+          "answer": "We strongly recommend booking, especially on weekends and for popular restaurants. Many good addresses are small and fill up quickly. We can help you book at our partner restaurants."
+        }
+      }
+    },
+    "hotels": {
+      "title": "Best Hotels in Lisbon 2025 - Complete Guide",
+      "intro": "Find the ideal accommodation for your stay in Lisbon with our selection of tested and approved hotels. From charming boutique hotels to 5-star palaces, including design hostels, discover the best places to stay in the Portuguese capital.",
+      "sections": {
+        "luxury": {
+          "title": "Luxury Hotels in Central Lisbon",
+          "content": "Lisbon has magnificent 5-star hotels, often housed in tastefully renovated historic buildings. Avenida da Liberdade, Lisbon's Champs-Élysées, is home to the city's most beautiful palaces, offering impeccable service and prime locations."
+        },
+        "boutique": {
+          "title": "Boutique Hotels in Alfama",
+          "content": "The Alfama district, Lisbon's oldest, houses charming boutique hotels nestled in traditional houses. Wake up to the sound of fado and enjoy breathtaking views of the Tagus from these intimate addresses."
+        },
+        "budget": {
+          "title": "Budget-Friendly Well-Located Hotels",
+          "content": "It's possible to find affordable, well-located hotels in Lisbon. The Baixa, Restauradores, and Marquês de Pombal areas offer good options at reasonable prices, with easy access to the metro and main attractions."
+        }
+      },
+      "faqTitle": "Frequently Asked Questions About Lisbon Hotels",
+      "faqs": {
+        "neighborhood": {
+          "question": "Which neighborhood to choose for staying in Lisbon?",
+          "answer": "For a first visit, Baixa (historic center) is ideal with monuments within walking distance. Alfama offers authenticity and panoramic views. Bairro Alto suits night owls. Chiado and Príncipe Real are perfect for shopping and restaurants. Belém is quieter, ideal for families."
+        },
+        "budget": {
+          "question": "What budget should I plan for a hotel in Lisbon?",
+          "answer": "Prices vary by season: expect €60-100/night for a decent 3-star, €120-200 for a well-located 4-star, and €250+ for luxury. In high season (April-October), prices increase by 20-30%. Book 2-3 months ahead for best rates."
+        },
+        "when": {
+          "question": "When should I book my hotel in Lisbon?",
+          "answer": "Book as early as possible, especially for peak periods (Easter, summer, popular saints' festivals in June). 3-4 months ahead is recommended for the best choice. For special events like Web Summit, book 6 months before."
+        },
+        "transport": {
+          "question": "Are central hotels well-connected?",
+          "answer": "Yes, central Lisbon is very well served by metro, buses, and the famous trams. Most hotels are within walking distance of main attractions. We also offer private transfers from the airport."
+        }
+      }
+    },
+    "bars": {
+      "title": "Best Bars in Lisbon - Rooftops, Cocktails & Nightlife",
+      "intro": "Explore Lisbon's vibrant nightlife through our selection of the city's best bars. From rooftops with spectacular views to intimate cocktail bars in Bairro Alto, including traditional wine bars, discover where to have a drink in Lisbon.",
+      "sections": {
+        "rooftops": {
+          "title": "Rooftops with Panoramic Views",
+          "content": "Lisbon is famous for its miradouros (viewpoints) and its rooftop bars offer the same spectacular views with a cocktail in hand. From PARK bar on a converted parking lot to grand hotel terraces, enjoy sunset over the Tagus in a magical setting."
+        },
+        "cocktails": {
+          "title": "Trendy Cocktail Bars",
+          "content": "Lisbon's cocktail scene has grown considerably in recent years. From hidden speakeasies to prestigious hotel bars, Lisbon mixologists compete in creativity to offer innovative cocktails blending local ingredients and modern techniques."
+        },
+        "traditional": {
+          "title": "Authentic Bairro Alto Bars",
+          "content": "Bairro Alto remains the heart of Lisbon nightlife. Its alleys are full of small traditional bars where locals meet for terrace drinks. The atmosphere is friendly, prices affordable, and the vibe incomparable."
+        }
+      },
+      "faqTitle": "Frequently Asked Questions About Lisbon Bars",
+      "faqs": {
+        "best": {
+          "question": "What are the best rooftop bars in Lisbon?",
+          "answer": "Among the must-visits: PARK Bar (view of the 25 de Abril Bridge), Sky Bar (Hotel Tivoli), Rooftop Bar do Hotel Mundial (castle view), and Limão (Santos). Each offers a different atmosphere, from the most relaxed to the most chic."
+        },
+        "neighborhood": {
+          "question": "Which neighborhood for nightlife in Lisbon?",
+          "answer": "Bairro Alto is the historic party district with dozens of bars. Cais do Sodré and Pink Street attract a younger, trendier crowd. LX Factory offers an alternative vibe. Santos-o-Velho appeals to thirty-somethings with its lounge bars."
+        },
+        "hours": {
+          "question": "How late can you go out in Lisbon?",
+          "answer": "Bars generally close between 2am and 4am. Clubs stay open until 6am or later. Nightlife starts late in Lisbon - Portuguese dine around 9-10pm and rarely go out before midnight."
+        },
+        "prices": {
+          "question": "What budget should I plan for a night out in Lisbon?",
+          "answer": "A beer costs around €2-4, a cocktail €8-12 depending on the bar. Rooftops are more expensive (€10-15 per cocktail). Bairro Alto remains the most economical. Budget €30-50 for a good night including a few drinks."
+        }
+      }
+    },
+    "guidedTours": {
+      "title": "Guided Tours in Lisbon - Private & Group Tours",
+      "intro": "Discover Lisbon like a local with our guided tours. Our passionate guides take you to discover the city's hidden treasures, from the fascinating history of Sintra to the colorful alleys of Alfama. Private tours, small group excursions, or full days: find the formula that suits you.",
+      "sections": {
+        "private": {
+          "title": "Personalized Private Tours",
+          "content": "Our private tours adapt to your desires and pace. Whether you want to explore Portugal's maritime history, local gastronomy, or trace the footsteps of fado, our guides create a tailor-made experience for you. Ideal for families, couples, or groups of friends."
+        },
+        "group": {
+          "title": "Small Group Tours",
+          "content": "Join our small group guided tours (maximum 8 people) for a friendly experience at an accessible price. An opportunity to meet other travelers while benefiting from personalized attention from your guide."
+        },
+        "dayTrips": {
+          "title": "Day Trips from Lisbon",
+          "content": "The Lisbon region is full of wonders to discover in a day: the fairytale palaces of Sintra (UNESCO), the wild beaches of Cascais, the Tagus Valley vineyards, or the dolphins of Setúbal. We organize your perfect excursion with transport and guide included."
+        }
+      },
+      "faqTitle": "Frequently Asked Questions About Guided Tours",
+      "faqs": {
+        "french": {
+          "question": "Do you offer guided tours in French?",
+          "answer": "Yes, all our tours are available in French with passionate French-speaking guides. We also offer English and Portuguese guides on request. Our guides are all local experts who live in Lisbon."
+        },
+        "sintra": {
+          "question": "How to visit Sintra from Lisbon?",
+          "answer": "Sintra is 40 min from Lisbon. We offer day trips including transport, a guide, and palace entrances. You'll visit Pena Palace, the Moorish Castle, and Quinta da Regaleira depending on the chosen formula."
+        },
+        "duration": {
+          "question": "How long does a guided tour last?",
+          "answer": "Our Lisbon tours last from 3h (specific neighborhood) to 6h (complete city). Sintra, Cascais, or Setúbal excursions are full 7-8h days. We also offer multi-day formulas to explore the region."
+        },
+        "booking": {
+          "question": "How to book a guided tour?",
+          "answer": "Book directly on our website or contact us by email/WhatsApp. We recommend booking at least 2-3 days in advance, more in high season. A 30% deposit confirms your booking, the balance is paid on the day of the tour."
+        }
+      }
+    }
+  }
+}

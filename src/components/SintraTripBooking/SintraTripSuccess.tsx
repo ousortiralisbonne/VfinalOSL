@@ -1,0 +1,46 @@
+/**
+ * Success confirmation component for Sintra Trip Booking
+ */
+import { useTranslation } from "react-i18next";
+
+interface SintraTripSuccessProps {
+  onClose: () => void;
+}
+
+const SintraTripSuccess = ({ onClose }: SintraTripSuccessProps) => {
+  const { t } = useTranslation();
+
+  return (
+    <div className="text-center py-8">
+      <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
+        <svg
+          className="w-8 h-8 text-green-500"
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+        >
+          <path
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="2"
+            d="M5 13l4 4L19 7"
+          />
+        </svg>
+      </div>
+      <h3 className="text-xl font-bold text-[#2a2765] mb-2">
+        {t("bookingModal.success.title")}
+      </h3>
+      <p className="text-gray-600 mb-6">
+        {t("bookingModal.success.message")}
+      </p>
+      <button
+        onClick={onClose}
+        className="bg-[#2f2d69] text-white px-6 py-2 rounded-full hover:bg-[#252157] transition"
+      >
+        {t("bookingModal.close")}
+      </button>
+    </div>
+  );
+};
+
+export default SintraTripSuccess;

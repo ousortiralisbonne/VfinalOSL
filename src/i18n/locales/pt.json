@@ -1,0 +1,1653 @@
+{
+  "nav": {
+    "home": "Início",
+    "explore": "Explorar Lisboa",
+    "activities": "Atividades",
+    "blog": "Blog",
+    "custom": "Personalizado",
+    "book": "Reservar",
+    "explore_menu": {
+      "restaurants": "Restaurantes",
+      "bars": "Bares",
+      "clubs": "Clubes",
+      "events": "Eventos",
+      "hotels": "Hotéis"
+    },
+    "activities_menu": {
+      "tours": "Tours Guiados",
+      "boat_trips": "Passeios de Barco",
+      "wine_tasting": "Degustação de Vinhos",
+      "cooking_classes": "Aulas de Culinária"
+    },
+    "muchmore": "E muitos outros..."
+  },
+  "hero": {
+    "tagline": "Faça da sua vida um evento!",
+    "title": {
+      "discover": "Descubra as",
+      "best": "Melhores Experiências",
+      "bestWord": "Melhores",
+      "experiences": "Experiências",
+      "in": "em Lisboa"
+    },
+    "description": "Explore os eventos, restaurantes e atividades imperdíveis da cidade. Experiências únicas selecionadas para tornar seus momentos inesquecíveis.",
+    "buttons": {
+      "offers": "Ver Ofertas",
+      "more": "Saber Mais"
+    },
+    "customlabel": "Personalizado",
+    "explorelabel": "Explorar",
+    "quickAccess": "Acesso Rápido",
+    "communitylabel": "Junte-se à Comunidade",
+    "stats": {
+      "places": "Lugares Recomendados",
+      "visitors": "Visitantes Satisfeitos",
+      "support": "Apoio ao Cliente"
+    }
+  },
+  "categories": {
+    "title": "Categorias",
+    "titleHighlight": "Categorias",
+    "badge": "Explore por categoria",
+    "description": "Descubra as melhores experiências que Lisboa tem para oferecer, organizadas por categoria para facilitar a sua exploração.",
+    "viewAll": "Ver todas as categorias",
+    "events": {
+      "name": "Eventos",
+      "count": "50+ eventos"
+    },
+    "restaurants": {
+      "name": "Restaurantes",
+      "count": "150+ recomendações"
+    },
+    "bars": {
+      "name": "Bares",
+      "count": "80+ estabelecimentos"
+    },
+    "clubs": {
+      "name": "Clubes",
+      "count": "20+ recomendações"
+    },
+    "boats": {
+      "name": "Barcos",
+      "count": "100+ barcos"
+    },
+    "activities": {
+      "name": "Atividades",
+      "count": "100+ atividades"
+    },
+    "tours": {
+      "name": "Tours",
+      "count": "50+ circuitos"
+    }
+  },
+  "restaurants": {
+    "title": "Restaurantes em Lisboa",
+    "subtitle": "Descubra as melhores experiências culinárias da cidade",
+    "filters": {
+      "all": "Todos os restaurantes",
+      "cuisines": {
+        "portuguese": "Português",
+        "seafood": "Frutos do Mar",
+        "mediterranean": "Mediterrâneo",
+        "international": "Internacional",
+        "vegetarian": "Vegetariano",
+        "fusion": "Fusão"
+      }
+    },
+    "reviews": "avaliações",
+    "book_button": "Reservar uma Mesa",
+    "specialties": {
+      "bacalhau": "Bacalhau",
+      "seafood": "Frutos do mar frescos",
+      "wine": "Lista de vinhos",
+      "fine dining": "Gastronomia",
+      "portuguese": "Português",
+      "contemporary": "Contemporâneo",
+      "local cuisine": "Cozinha local",
+      "street food": "Comida de rua",
+      "variety": "Variedade de culinárias"
+    }
+  },
+  "bars": {
+    "title": "Bares em Lisboa",
+    "subtitle": "Descubra os melhores bares e pontos de vida noturna",
+    "filters": {
+      "all": "Todos os bares",
+      "types": {
+        "cocktails": "Bares de coquetéis",
+        "wine": "Bares de vinho",
+        "terrace": "Rooftop & Terrasse",
+        "authentic": "Pub autênticos",
+        "sports": "Bares desportivos",
+        "live_music": "Música ao vivo"
+      }
+    },
+    "reviews": "avaliações",
+    "book_button": "Reservar uma Mesa",
+    "tags": {
+      "cocktails": "Coquetéis",
+      "speakeasy": "Speakeasy",
+      "intimate": "Intimista",
+      "rooftop": "Rooftop",
+      "views": "Vistas da cidade",
+      "sunset": "Pôr do sol",
+      "historic": "Histórico",
+      "unique": "Único",
+      "cozy": "Confortável"
+    }
+  },
+  "clubs": {
+    "title": "Clubes em Lisboa",
+    "subtitle": "Descubra os melhores clubes noturnos da cidade",
+    "filters": {
+      "all": "Todos os clubes",
+      "genres": {
+        "electro": "Electro",
+        "house": "House",
+        "techno": "Techno",
+        "afrobeat": "Afrobeat",
+        "kizomba": "Kizomba",
+        "trap": "Trap",
+        "indie": "Indie",
+        "pop": "Pop",
+        "rnb": "R&B"
+      }
+    },
+    "reviews": "avaliações",
+    "book_button": "Reservar uma Mesa VIP"
+  },
+  "events": {
+    "title": "Eventos em Lisboa",
+    "subtitle": "Descubra todos os próximos eventos",
+    "filters": {
+      "title": "Filtrar por tema",
+      "all": "Todos os eventos",
+      "categories": {
+        "music": {
+          "name": "Música",
+          "description": "Concertos, festivais, showcases, noites de DJ"
+        },
+        "art": {
+          "name": "Arte",
+          "description": "Exposições, galerias pop-up, instalações, performances"
+        },
+        "cinema": {
+          "name": "Cinema",
+          "description": "Projeções ao ar livre, festivais de cinema, ante-primeiras"
+        },
+        "theater": {
+          "name": "Teatro & Espectáculos",
+          "description": "Teatro, musicais, dança, stand-up"
+        },
+        "gastronomy": {
+          "name": "Gastronomia",
+          "description": "Degustações, festivais de comida, aulas de culinária"
+        },
+        "sports": {
+          "name": "Desporto",
+          "description": "Competições, maratonas, iniciativas, torneios"
+        },
+        "family": {
+          "name": "Família",
+          "description": "Workshops criativos, espectáculos para crianças, dias de descoberta"
+        },
+        "wellness": {
+          "name": "Bem-estar",
+          "description": "Yoga, palestras inspiradoras, workshops de bem-estar"
+        },
+        "culture": {
+          "name": "Cultura",
+          "description": "Festas locais, mercados, celebrações tradicionais"
+        },
+        "business": {
+          "name": "Negócios",
+          "description": "Conferências, seminários, workshops de networking"
+        }
+      }
+    }
+  },
+  "hotels": {
+    "title": "Hotéis em Lisboa",
+    "subtitle": "Encontre o seu alojamento ideal no coração de Lisboa",
+    "filters": {
+      "all": "Todos os hotéis",
+      "categories": {
+        "luxury": "Luxo",
+        "boutique": "Boutique",
+        "business": "Negócios",
+        "family": "Família",
+        "budget": "Orçamento",
+        "apartments": "Apartamentos"
+      }
+    },
+    "reviews": "avaliações",
+    "book_button": "Reservar"
+  },
+  "featuredEvent": {
+    "tag": "Evento em Destaque",
+    "title": "Festival de Fado",
+    "date": "15-17 de Junho de 2024",
+    "time": "19h00 - 23h00",
+    "location": "Alfama, Lisboa",
+    "button": "Reservar"
+  },
+  "popularExperiences": {
+    "badge": "Nossas experiências populares",
+    "title": "Experiências Imperdíveis",
+    "titleStart": "Experiências ",
+    "titleHighlight": "Imperdíveis",
+    "description": "Descubra as experiências mais apreciadas pelos nossos visitantes, cuidadosamente selecionadas para lhe oferecer o melhor de Lisboa.",
+    "reviews": "avaliações",
+    "discover": "Descobrir",
+    "viewAll": "Ver todas as experiências",
+    "gastronomy": {
+      "category": "Gastronomia",
+      "title": "Degustação de Vinhos do Douro"
+    },
+    "cruise": {
+      "category": "Cruzeiros",
+      "title": "Cruzeiro ao Pôr do Sol"
+    },
+    "culture": {
+      "category": "Cultura",
+      "title": "Tour pelos Bairros Históricos"
+    },
+    "tuktuk": {
+      "category": "Cultura",
+      "title": "Tour Panorâmico das 7 Colinas de Tuk-Tuk"
+    },
+    "tage": {
+      "category": "Cruzeiros",
+      "title": "Cruzeiro no Rio Tâmega"
+    },
+    "visiteonfoot": {
+      "category": "Cultura",
+      "title": "Tour Privado a Pé"
+    }
+  },
+  "newsletter": {
+    "title": "Fique informado das nossas melhores ofertas",
+    "placeholder": "O seu endereço de email",
+    "button": "Subscrever",
+    "badge": "Fique Informado",
+    "description": "Receba as nossas melhores recomendações, ofertas exclusivas e notícias diretamente na sua caixa de correio.",
+    "loading": "Enviando...",
+    "privacyNote": "🔒 Os seus dados estão protegidos. Cancele a subscrição a qualquer momento."
+  },
+  "testimonials": {
+    "badge": "Testemunhos de clientes",
+    "title": "O que os nossos clientes dizem",
+    "titleStart": "O que ",
+    "titleHighlight": "os nossos clientes dizem",
+    "description": "Descubra o que os nossos clientes pensam sobre as suas experiências connosco. Testemunhos autênticos que falam por si.",
+    "descriptionStart": "Descubra o que os nossos clientes pensam sobre as suas experiências connosco. ",
+    "descriptionHighlight": "Testemunhos autênticos",
+    "descriptionEnd": " que falam por si.",
+    "moreBadge": "Mais testemunhos",
+    "moreTitle": "Encontre todos os testemunhos",
+    "moreDescription": "Descubra todas as nossas avaliações de clientes nas nossas plataformas parceiras",
+    "facebookReviews": "Avaliações do Facebook",
+    "trustpilot": "Trustpilot",
+    "reviews": {
+      "1": {
+        "textStart": "",
+        "textHighlight": "Incrível!",
+        "textEnd": " Cruzeiro privado em um catamarã, capitão muito atencioso, vinho excelente e barco impecável. Um momento mágico!",
+        "name": "Virginie"
+      },
+      "2": {
+        "textStart": "",
+        "textHighlight": "Dia mágico",
+        "textEnd": " em Sintra com Daniel! Roteiro perfeito: Palácio da Pena, Quinta da Regaleira, Cabo da Roca. Guia muito atencioso!",
+        "name": "Julien Petrez"
+      },
+      "3": {
+        "textStart": "Experiência incrível com Tania! ",
+        "textHighlight": "Organização perfeita",
+        "textEnd": ", guia e motorista excelentes. Profissionalismo exemplar!",
+        "name": "Catala"
+      }
+    }
+  },
+  "footer": {
+    "categorieslabel": "Categorias",
+    "description": "Descubra as melhores experiências em Lisboa com a nossa seleção de atividades, restaurantes e eventos únicos.",
+    "brandName": "Onde Sair em Lisboa",
+    "brandTagline": "Descubra a cidade",
+    "location": "Lisboa, Portugal",
+    "informations": {
+      "label": "Informações",
+      "about": "Sobre Nós",
+      "becomepartner": "Tornar-se Parceiro",
+      "legal": "Menções Legais",
+      "privacy": "Política de Privacidade",
+      "cgv": "Termos e Condições"
+    }
+  },
+  "discovergastrolisbonne": "Descubra as nossas experiências gastronómicas em Lisboa",
+  "discoveruniqexperience": "Descubra outras experiências únicas em Lisboa",
+  "videoSection": {
+    "badge": "Descubra o nosso universo",
+    "title": "Onde sair a Lisboa",
+    "titleStart": "Onde sair em ",
+    "titleHighlight": "Lisboa",
+    "subtitle": "Bons Planos e Saídas",
+    "description1": "Nós passamos a actualidade e a cidade ao peneireiro para descobrir as melhores actividades, bares, eventos, locais culturais, hotéis, pontos únicos e restaurantes da cidade e da sua região.",
+    "description2": "Siga o nosso conteúdo em destaque e stories no ",
+    "description3": ", junte-se à nossa comunidade no ",
+    "description4": " e para o purista, siga-nos no ",
+    "instagram": "Instagram",
+    "whatsapp": "WhatsApp",
+    "facebook": "Facebook",
+    "trustpilot": "Veja os nossos comentários no",
+    "trustpilotButton": "Ver comentários",
+    "videoTitle": "Descubra Lisboa com os nossos guias locais - Onde sair a Lisboa"
+  },
+  "communitySection": {
+    "badge": "Junte-se à nossa comunidade",
+    "title": "Conecte-se connosco",
+    "titleStart": "Conecte-se ",
+    "titleHighlight": "connosco",
+    "description": "Conecte-se connosco e descubra as melhores experiências de Lisboa em tempo real.",
+    "newsletter": {
+      "title": "Subscreva a Newsletter",
+      "description": "A nossa newsletter é perfeita tanto para os residentes que querem estar informados sobre os eventos e obter novas ideias para sair em Lisboa, como para os visitantes que querem planear a sua estadia na capital com dicas e truques excelentes.",
+      "placeholder": "O seu endereço de email",
+      "button": "Subscrever"
+    },
+    "community": {
+      "title": "Junte-se à Comunidade",
+      "description": "Onde Sair a Lisboa é uma rede ativa no Facebook, Telegram e Instagram. Partilhamos dicas e ideias para coisas para fazer na capital. Siga as nossas redes sociais para estar sempre atualizado em tempo real e planeie a sua saída em Lisboa.",
+      "facebook": "Facebook",
+      "facebookSubtitle": "Siga as nossas novidades",
+      "instagram": "Instagram",
+      "instagramSubtitle": "Fotos e Stories",
+      "whatsapp": "WhatsApp",
+      "whatsappSubtitle": "Chat direto",
+      "youtube": "YouTube",
+      "youtubeSubtitle": "Vídeos e Guias"
+    }
+  },
+  "integrationSection": {
+    "badge": "Parceria profissional",
+    "title": "Integre o nosso site e as nossas redes sociais",
+    "titleStart": "Integre o nosso site e as nossas ",
+    "titleHighlight": "redes sociais",
+    "description1": "Tem um restaurante, bar, evento, exposição ou atividade para propor à nossa comunidade?",
+    "description2": "Contacte-nos e apresente o seu projecto. Se corresponder à nossa linha editorial, enviaremos-lhe as nossas condições de integração.",
+    "successTitle": "Mensagem enviada!",
+    "successMessage": "Obrigado pela sua mensagem! Contactá-lo-emos brevemente para discutir o seu projecto.",
+    "followBadge": "Siga-nos",
+    "socialDescription": "Fique conectado connosco nas nossas redes sociais",
+    "form": {
+      "name": "Nome completo",
+      "email": "Email",
+      "phone": "Telefone",
+      "company": "Empresa / Estabelecimento",
+      "website": "Website (opcional)",
+      "message": "A sua mensagem",
+      "submit": "Enviar a minha solicitação"
+    },
+    "socialMedia": "Pode também etiquetar-nos nas suas redes sociais:"
+  },
+  "blog": {
+    "hero": {
+      "title": "Blog - Onde Sair a Lisboa",
+      "subtitle": "Guias, conselhos e melhores endereços para aproveitar ao máximo Lisboa"
+    },
+    "readArticle": "Leia o artigo"
+  },
+  "blogPost": {
+    "error": {
+      "missingSlug": "Slug ausente",
+      "notFound": "Artigo não encontrado"
+    },
+    "backToBlog": "Voltar ao blog",
+    "minRead": "min de leitura",
+    "aboutAuthor": "Sobre o autor",
+    "expertLisbon": "Especialista em Lisboa",
+    "authorDescription": "Apaixonado por Lisboa e seus segredos, {{author}} partilha as suas descobertas para viver a cidade como um local.",
+    "progress": "Progresso",
+    "readingTime": "Tempo de leitura",
+    "share": "Partilhar",
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "discoverMore": "Descubra mais artigos",
+    "discoverDescription": "Explore o nosso blog para mais inspiração sobre Lisboa e os seus tesouros escondidos",
+    "viewAllArticles": "Ver todos os artigos",
+    "backToHome": "Voltar à página inicial"
+  },
+  "wrapper": {
+    "error": {
+      "title": "Erro de carregamento",
+      "message": "Ocorreu um erro ao carregar os dados.",
+      "retry": "Tentar novamente"
+    }
+  },
+  "favoritesDrawer": {
+    "title": "Meus Favoritos",
+    "noFavorites": "Você ainda não tem favoritos",
+    "bookingForm": {
+      "title": "Reservar Seleção",
+      "fields": {
+        "date": "Data",
+        "time": "Hora",
+        "guests": "Número de Pessoas",
+        "name": "Nome Completo",
+        "email": "Email",
+        "phone": "Telefone",
+        "message": "Mensagem (opcional)",
+        "messagePlaceholder": "As suas dúvidas, pedidos especiais..."
+      },
+      "buttons": {
+        "back": "Voltar",
+        "confirm": "Confirmar"
+      }
+    },
+    "bookSelection": "Reservar Seleção"
+  },
+  "customTours": {
+    "hero": {
+      "title": "Visitas Personalizadas",
+      "subtitle": "Soluções personalizadas para todas as suas necessidades"
+    },
+    "tourTypes": {
+      "partner": {
+        "title": "Parceiro",
+        "description": "Você tem um estabelecimento, atividade ou serviço para oferecer?",
+        "benefits": {
+          "1": "Visibilidade na nossa plataforma",
+          "2": "Acesso à nossa comunidade",
+          "3": "Gestão de reservas",
+          "4": "Suporte de marketing"
+        }
+      },
+      "family": {
+        "title": "Família & Grupo",
+        "description": "Uma viagem em família ou um encontro entre amigos? Nós organizamos tudo!",
+        "benefits": {
+          "1": "Programa personalizado",
+          "2": "Guia francófono",
+          "3": "Transporte privado",
+          "4": "Atividades adaptadas"
+        }
+      },
+      "business": {
+        "title": "Negócios",
+        "description": "Seminário, team building ou viagem de recompensa?",
+        "benefits": {
+          "1": "Organização completa",
+          "2": "Atividades profissionais",
+          "3": "Logística de eventos",
+          "4": "Coordenação no local"
+        }
+      }
+    },
+    "timelineSection": {
+      "title": "Como funciona?"
+    },
+    "timeline": {
+      "1": {
+        "title": "Primeiro Contato",
+        "description": "Preencha nosso formulário ou entre em contato conosco diretamente. Discutimos suas preferências e necessidades."
+      },
+      "2": {
+        "title": "Proposta Personalizada",
+        "description": "Criamos uma proposta detalhada adaptada às suas expectativas e orçamento."
+      },
+      "3": {
+        "title": "Validação & Organização",
+        "description": "Depois que a proposta for validada, cuidamos de toda a organização."
+      }
+    },
+    "testimonialsSection": {
+      "title": "O que nossos clientes dizem"
+    },
+    "testimonials": {
+      "1": {
+        "text": "Uma experiência inesquecível! Nosso guia foi apaixonado e adaptou a visita ao nosso ritmo. Descobrimos lugares secretos que nunca teríamos encontrado sozinhos."
+      },
+      "2": {
+        "text": "Perfeito para nossa família de 4 pessoas. O programa estava bem equilibrado entre cultura, relaxamento e atividades para crianças. Obrigado por esta organização personalizada!"
+      },
+      "3": {
+        "text": "Eu estava viajando sozinha e queria uma experiência autêntica. O guia me levou ao verdadeiro Lisboa, restaurantes locais e a fascinante história da cidade."
+      }
+    },
+    "formSection": {
+      "title": "Contate-nos - Estadia em Lisboa",
+      "fields": {
+        "arrivalDate": "Data de Chegada Esperada *",
+        "departureDate": "Data de Partida *",
+        "totalBudget": "Orçamento Total para o Seu Grupo *",
+        "groupType": "Composição do Seu Grupo *",
+        "adultsCount": "Adulto entre 18 e 65 anos - Idade Média *",
+        "seniorsCount": "Sênior (+65 anos)",
+        "minorsCount": "Menores - Idade",
+        "mobilityInfo": "Pessoa com mobilidade reduzida. Conte-nos mais."
+      },
+      "groupTypes": {
+        "couple": "Casal",
+        "friends": "Grupo de Amigos (EVG, EVJF, festa de aniversário...)",
+        "school": "Grupo Escolar / Grupo Esportivo / Associação",
+        "family": "Família",
+        "single": "Sozinho",
+        "seminar": "Seminário",
+        "teamBuilding": "Team Building",
+        "other": "Outro - Comentário"
+      },
+      "submitButton": "Enviar minha solicitação"
+    }
+  },
+  "transfers": {
+    "hero": {
+      "title": "Serviço de Transfer",
+      "subtitle": "Transfer privado com motorista em Lisboa"
+    },
+    "servicesSection": {
+      "title": "Nossos Serviços"
+    },
+    "services": {
+      "airport": {
+        "title": "Transfer Aeroporto",
+        "description": "Retirada no aeroporto ou no seu hotel",
+        "price": "De 35€"
+      },
+      "hotel": {
+        "title": "Transfer Hotel",
+        "description": "Transporte para/de seu alojamento",
+        "price": "De 35€"
+      },
+      "excursions": {
+        "title": "Excursões",
+        "description": "Transporte para suas excursões de um dia",
+        "price": "Sob consulta"
+      },
+      "events": {
+        "title": "Eventos",
+        "description": "Transporte para casamentos, seminários, etc.",
+        "price": "Sob consulta"
+      }
+    },
+    "fleetSection": {
+      "title": "Nossa Frota",
+      "pricePrefix": "De",
+      "vehicleType": "Transporte",
+      "capacity": "Capacidade:",
+      "people": "pessoas",
+      "infoButton": "Solicitar Informação"
+    },
+    "vehicles": {
+      "car": {
+        "name": "Carro de Luxo",
+        "capacity": "1-4",
+        "price": "35€",
+        "features": [
+          "Mercedes Classe E ou similar",
+          "Motorista profissional",
+          "Ar condicionado",
+          "WiFi gratuito"
+        ]
+      },
+      "minivan7": {
+        "name": "Mini Van 7 lugares",
+        "capacity": "1-7",
+        "price": "55€",
+        "features": [
+          "Mercedes Classe V ou similar",
+          "Espaço de bagagem generoso",
+          "Ar condicionado",
+          "WiFi gratuito"
+        ]
+      },
+      "minivan12": {
+        "name": "Mini Van 12 lugares",
+        "capacity": "1-12",
+        "price": "75€",
+        "features": [
+          "Mercedes Sprinter ou similar",
+          "Ideal para grupos",
+          "Ar condicionado",
+          "WiFi gratuito"
+        ]
+      },
+      "bus": {
+        "name": "Ônibus 49 lugares",
+        "capacity": "1-49",
+        "price": "150€",
+        "features": [
+          "Ônibus de grande conforto",
+          "Perfeito para grandes grupos",
+          "Ar condicionado",
+          "WiFi gratuito"
+        ]
+      }
+    },
+    "bookingForm": {
+      "title": "Reserve Seu Transfer",
+      "fields": {
+        "start": "Ponto de Partida",
+        "startPlaceholder": "Aeroporto, hotel, endereço...",
+        "destination": "Destino",
+        "destinationPlaceholder": "Aeroporto, hotel, endereço...",
+        "date": "Data",
+        "time": "Hora",
+        "passengers": "Número de Passageiros",
+        "vehicleType": "Tipo de Veículo",
+        "vehicleTypePlaceholder": "Selecione um veículo",
+        "luggage": "Bagagem (número e tamanho)",
+        "childSeat": "Precisa de uma cadeira de criança?",
+        "fullName": "Nome Completo",
+        "email": "E-mail",
+        "phone": "Telefone (com código do país)",
+        "comments": "Comentários ou pedidos específicos",
+        "commentsPlaceholder": "Ex. motorista falante de francês, parada no caminho, etc.",
+        "yes": "Sim",
+        "no": "Não"
+      },
+      "submitButton": "Solicitar Informação",
+      "successMessage": "Obrigado por nos contactar! Entraremos em contacto consigo em breve."
+    }
+  },
+  "guidedTours": {
+    "hero": {
+      "title": "Tours Guiados em Lisboa",
+      "subtitle": "Descubra Lisboa e suas redondezas com nossos guias apaixonados. Experiências autênticas e personalizadas para explorar a cidade como um local."
+    },
+    "tours": {
+      "pricePrefix": "De",
+      "priceSuffix": "por pessoa",
+      "type": "Tour guiado",
+      "durationPrefix": "Duração:",
+      "maxParticipantsPrefix": "Máx",
+      "maxParticipantsSuffix": "participantes",
+      "reserveButton": "Reserve agora"
+    }
+  },
+  "boatTrips": {
+    "hero": {
+      "title": "Viagens de Barco",
+      "subtitle": "A menos de uma hora do Parque Natural da Arrábida, parta à descoberta dos golfinhos no seu habitat natural."
+    },
+    "cruiseCard": {
+      "actionLabel": "Solicitar Informação"
+    }
+  },
+  "cruiseCard": {
+    "type": "Cruzeiro",
+    "priceOnRequest": "Sob Consulta",
+    "pricePrefix": "De",
+    "priceSuffix": "por pessoa",
+    "duration": "Duração:",
+    "capacity": "Capacidade:"
+  },
+  "sports": {
+    "hero": {
+      "title": "Atividades Esportivas",
+      "subtitle": "Descubra nossas atividades esportivas em Lisboa e suas proximidades"
+    },
+    "filters": {
+      "all": "Todas as Atividades"
+    },
+    "activities": {
+      "pricePrefix": "De",
+      "type": "Atividade Esportiva",
+      "duration": "Duração:",
+      "requestInfo": "Solicitar Informação"
+    }
+  },
+  "activityModal": {
+    "address": "Endereço",
+    "hours": "Horários",
+    "price": "Preços",
+    "contact": "Contacto",
+    "highlights": "Destaques"
+  },
+  "bookingModal": {
+    "reserve": "Pedido de reserva",
+    "success": {
+      "title": "Reserva bem-sucedida!",
+      "message": "Obrigado pela sua reserva. Entraremos em contato em breve."
+    },
+    "close": "Fechar",
+    "form": {
+      "date": "Data",
+      "time": "Hora",
+      "timeSlot": "Horário",
+      "selectTimeSlot": "Selecionar horário",
+      "morning": "Manhã (11h30 - 13h30)",
+      "afternoon": "Tarde (15h30 - 17h30)",
+      "guests": "Número de convidados",
+      "name": "Nome",
+      "email": "Email",
+      "phone": "Telefone",
+      "message": "Mensagem",
+      "submit": "Enviar",
+      "dinnerIncluded": "Gostaria de incluir o jantar?",
+      "dietaryRestrictions": "Restrições Alimentares",
+      "specialRequests": "Pedidos Especiais",
+      "specialRequestsPlaceholder": "Ex. aniversário, pedido especial, etc.",
+      "yes": "Sim",
+      "no": "Não",
+      "selectOption": "Selecione uma opção",
+      "entryType": "Tipo de entrada desejada",
+      "entryTypePlaceholder": "Entrada única, mesa VIP, garrafa incluída, etc",
+      "musicPreferences": "Preferências musicais",
+      "additionalComments": "Comentários ou pedidos especiais",
+      "reservationType": "Tipo de reserva",
+      "reservationTypePlaceholder": "Mesa, garrafas, jantar, audiovisuais, etc",
+      "receivegroupmenu": "Gostaria de receber o menu de grupo?",
+      "privatespace": "Precisa de informação sobre privatização de espaço?",
+      "restaurantreservationtype": "Tipo de reserva: (Mesa individual, grupo, espaço privado, etc.)",
+      "restaupref": "Preferências Culinárias: (Culinária específica, restrições alimentares, etc.)",
+      "secondDate": "Outra Data",
+      "pickupLocation": "Local de Coleta",
+      "languages": "Idioma do Acompanhante",
+      "departureTime": "Escolha Sua Hora de Partida",
+      "accompaniment": "Escolha Seu Acompanhamento",
+      "monuments": "Monumentos Que Você Deseja Visitar (Preço Indicativo por Adulto)",
+      "vehicles": "Escolha o(s) veículo(s) que mais lhe convém: *",
+      "vehicleFormulas": "Escolha sua fórmula: *",
+      "tickets": "Você gostaria que nós cuidássemos da compra dos seus bilhetes? *",
+      "ticketsYes": "Sim + 15€ de taxa e valor dos bilhetes",
+      "ticketsNo": "Não",
+      "ticketsYesBus": "Sim + 30€ de taxa e valor dos bilhetes",
+      "participants18to64": "Número de participantes entre 18 e 64 anos *",
+      "participants6to17": "Número de participantes entre 6 e 17 anos *",
+      "participants65plus": "Número de participantes com 65 anos ou mais *",
+      "participantsUnder6": "Número de participantes com menos de 6 anos *",
+      "sunsetCruise": "Pôr do Sol",
+      "totalPrice": "Preço Total",
+      "promoCode": "Código Promocional",
+      "numberOfPeople": "Número de pessoas",
+      "departureCity": "Cidade de partida",
+      "docTax": "Taxa de documentos",
+      "hours": "Número de horas desejadas",
+      "boatChoice": "Escolha do barco",
+      "boatLicense": "Licença de barco ou com tripulação?",
+      "extras": "Extras",
+      "setubal": "Setúbal (Sem taxa)",
+      "troia": "Troìa (Taxa de documentos: +25 €)",
+      "permis": "Licença de barco",
+      "equipage": "Tripulação: +70 € (-2 lugares)",
+      "boatOptions": "Qual embarcação você gostaria?",
+      "nightOnBoard": "Noite a bordo por 575€ com refeição incluída"
+    },
+    "boatOptions": {
+      "keltAzura": "Kelt Azura / 5pers : 180 €",
+      "saver": "Saver / 6pers : 210 €",
+      "cad": "CAD / 6pers : 210 €",
+      "sanRemo": "San Remo / 7pers : 220 €",
+      "selva": "Selva / 7pers : 220 €",
+      "nireus": "Nireus / 8pers : 240 €",
+      "sacs": "SACS / 10pers : 250 €",
+      "bwa": "BWA / 12pers : 290 €",
+      "voilier6": "Veleiro 6 lugares a partir de 170€ por 2h30 (pôr do sol + 30€)",
+      "catamaran8": "Catamarã 8 lugares a partir de 180€ por 2h",
+      "voilier10": "Veleiro 10 lugares a partir de 300€ por 2h",
+      "catamaran18": "Catamarã 18 lugares a partir de 650€ por 2h"
+    },
+    "extras": {
+      "bouee": "Boia : +40 €",
+      "wakeboard": "Wakeboard : +40 €",
+      "skiNautique": "Esqui náutico : +40 €"
+    },
+    "timeSlot": {
+      "10h-12h": "10h - 12h",
+      "12h30-14h30": "12h30 - 14h30",
+      "15h-17h": "15h - 17h",
+      "sunset": "Pôr do sol"
+    },
+    "languages": {
+      "german": "Alemão",
+      "english": "Inglês",
+      "spanish": "Espanhol",
+      "french": "Francês",
+      "italian": "Italiano",
+      "portuguese": "Português",
+      "any": "Qualquer",
+      "other": "Outro"
+    },
+    "departureTime": {
+      "8h15": "8h15 (recomendada para aproveitar o silêncio matinal)",
+      "9h30": "9h30",
+      "10h30": "10h30",
+      "11h30": "11h30",
+      "other": "Outro"
+    },
+    "accompaniment": {
+      "driver": "Com Motorista",
+      "driverGuide": "Com Motorista-Guia"
+    },
+    "monuments": {
+      "palacioPenaInterior": "Palacio da Pena - Jardim e Interior (com horário de entrada) 20€",
+      "palacioPenaGarden": "Palacio da Pena - Jardim - O Incontornável (nossa recomendação) 10€",
+      "quintaRegaleira": "Quinta da Regaleira (com horário de entrada) 16,11€",
+      "palacioMonserrate": "Palacio de Monserrate (nossa sugestão) 12€",
+      "palacioNacional": "Palacio Nacional de Sintra 13€",
+      "casteloMorros": "Castelo dos Morros 12€",
+      "palacioQueluz": "Palacio de Queluz 13€",
+      "historicalCenter": "Descubra o centro histórico de Sintra",
+      "none": "Nenhum do interior"
+    },
+    "sunsetCruise": {
+      "title": "Opções de Cruzeiro ao Pôr do Sol",
+      "description": "Escolha entre nossas várias opções de cruzeiro ao pôr do sol:",
+      "calm": "Calmo",
+      "sailboat": "Veleiro (12 pessoas)",
+      "catamaran18": "Catamarã (18 pessoas)",
+      "yacht": "Iate (25 pessoas)",
+      "festive": "Festivo",
+      "catamaran60": "Catamarã (60 pessoas)",
+      "motorboat": "Barco a motor (220 pessoas)",
+      "boatParty": "Festa no Barco",
+      "boatPartyLink": "Festa no Barco no Sábado de Verão",
+      "voilier6": "Veleiro 6 lugares a partir de 170€ por 2h30 (pôr do sol + 30€)",
+      "catamaran8": "Catamarã 8 lugares a partir de 180€ por 2h",
+      "voilier10": "Veleiro 10 lugares a partir de 300€ por 2h",
+      "catamaran188": "Catamarã 18 lugares a partir de 650€ por 2h"
+    }
+  },
+  "locations": {
+    "lisbon": "Lisboa",
+    "cascais": "Cascais",
+    "setubal": "Setúbal"
+  },
+  "cruiseTypes": {
+    "all": "Todas as Cruzeiros",
+    "group": "Cruzeiro em Grupo",
+    "private": "Cruzeiro Privado"
+  },
+  "all": "Todas",
+  "about": {
+    "hero": {
+      "badge": "Nossa História",
+      "title": "Sobre",
+      "subtitle": "Bem-vindo ao 'Onde Sair em Lisboa'!"
+    },
+    "stats": {
+      "happyClients": "Clientes satisfeitos",
+      "rating": "Classificação média",
+      "yearsExperience": "Anos de experiência",
+      "languages": "Línguas faladas"
+    },
+    "content": {
+      "introLabel": "Quem somos",
+      "intro": "Sou Tania Barros, luso-francesa e criadora deste site, nascida da minha paixão por Lisboa e do meu desejo de partilhar os seus tesouros consigo.",
+      "section1": {
+        "badge": "Nossa Paixão",
+        "title": "Da França para Portugal: um regresso às raízes",
+        "text1": "Nascida no Portugal, cresci na França depois que a minha família se mudou para lá quando eu tinha apenas um ano. Lá vivi as minhas primeiras experiências: as minhas primeiras palavras, os meus estudos, as minhas primeiras aventuras profissionais. Após vários anos em Picardia e Normandia, senti a necessidade de regressar ao meu país natal. Com 27 anos, tomei uma das melhores decisões da minha vida: regressar a viver para Portugal.",
+        "text2": "Aqui, senti-me imediatamente em casa. O acolhimento caloroso, a convivialidade, a riqueza cultural, a gastronomia, o clima suave... Tudo o que faz a magia do Portugal deu-me o desejo de o partilhar com os outros."
+      },
+      "section2": {
+        "badge": "Nossa Missão",
+        "title": "Um duplo chapéu: comunicação e turismo",
+        "text1": "A minha carreira profissional levou-me primeiro para a comunicação e eventos, onde ocupei postos de responsabilidade para empresas como Bouygues Telecom e Apple. Paralelamente, cultivei a minha paixão por eventos colaborando com bares, clubes, restaurantes e agências de produção.",
+        "text2": "Então, por uma feliz coincidência, tornei-me guia turística há sete anos. Foi uma revelação: juntar a minha paixão por Lisboa, os encontros e a organização de experiências únicas tornou-se uma evidência. Especializada em Street Art, rodei-me de uma rede incrível de guias, restauradores, artistas e profissionais do turismo, permitindo-me propor experiências sob medida."
+      },
+      "section3": {
+        "badge": "Nossos Serviços",
+        "title": "'Onde Sair em Lisboa': o seu guia personalizado",
+        "text1": "Assim nasceu 'Onde Sair em Lisboa': um site em evolução, alimentado pelas minhas descobertas e encontros, onde partilho os melhores endereços e experiências para explorar a cidade de forma diferente. Hoje, trabalho com:",
+        "list": [
+          "Uma dúzia de guias apaixonados,",
+          "Cinquenta equipas para experiências náuticas,",
+          "Muitos motoristas, restauradores, artistas e instrutores,",
+          "E uma infinidade de experiências adaptadas a cada viajante."
+        ],
+        "text2": "Seja em casal, em família, entre amigos ou em negócios, acompanho-o na sua descoberta de Lisboa com recomendações autênticas e serviços sob medida."
+      },
+      "section4": {
+        "badge": "Nossa Terra",
+        "title": "Mais do que um simples guia, uma experiência humana",
+        "text": "Ao escolher 'Onde Sair em Lisboa', beneficia de conselhos personalizados, de uma seleção de parceiros de confiança e, acima de tudo, de um serviço humano e apaixonado."
+      },
+      "contact": {
+        "badge": "Contacte-nos",
+        "title": "✨ Quer descobrir Lisboa de forma diferente?",
+        "text": "Contacte-me para organizar a sua estadia personalizada!",
+        "email": "contact@ousortiralisbonne.com",
+        "phone": "+351 966 998 827"
+      },
+      "images": {
+        "guideTouristique": "Guia turística apaixonada",
+        "historicalQuarters": "Descobrindo os bairros históricos",
+        "authenticExperiences": "Experiências autênticas em Lisboa"
+      }
+    }
+  },
+  "legalNotice": {
+    "hero": {
+      "title": "Aviso Legal",
+      "subtitle": "Où sortir à Lisbonne"
+    },
+    "content": {
+      "editor": {
+        "title": "Edição do site",
+        "description": "O site Où sortir à Lisbonne, acessível em https://www.ousortiralisbonne.com, é editado por:",
+        "name": "Tania Barros",
+        "address": "Rua Alto Minho 159, 4770-538 Arnoso Santa Maria",
+        "phone": "+351 966 998 827",
+        "email": "contact@ousortiralisbonne.com",
+        "note": "(doravante designada « o Editor »)"
+      },
+      "publicationResponsible": {
+        "title": "Direção da publicação",
+        "director": "Diretora da publicação: Tania Barros",
+        "contact": "+351 966 998 827",
+        "email": "contact@ousortiralisbonne.com"
+      },
+      "hosting": {
+        "title": "Alojamento do site",
+        "description": "O site é alojado por:",
+        "name": "OVHcloud",
+        "type": "Sociedade por ações simplificada",
+        "siren": "SIREN: 424 761 419",
+        "address": "2 rue Kellermann – 59100 Roubaix – França",
+        "phone": "09 72 10 10 07",
+        "website": "https://www.ovhcloud.com"
+      },
+      "intellectualProperty": {
+        "title": "Propriedade intelectual",
+        "intro": "Todo o conteúdo presente no site Où sortir à Lisbonne, incluindo, de forma não exaustiva:",
+        "list": [
+          "textos",
+          "fotografias",
+          "ilustrações",
+          "imagens fixas ou animadas",
+          "vídeos",
+          "sons",
+          "logotipos",
+          "elementos gráficos",
+          "estrutura do site",
+          "conteúdos editoriais"
+        ],
+        "description1": "está protegido pelas leis em vigor relativas à propriedade intelectual.",
+        "description2": "Estes elementos são propriedade exclusiva do Editor ou dos seus parceiros, salvo indicação em contrário.",
+        "description3": "Qualquer reprodução, representação, modificação, publicação, adaptação ou exploração, total ou parcial, destes elementos, por qualquer meio que seja, sem autorização escrita prévia do Editor, é estritamente proibida e constitui uma contrafação sancionada pelo Código da Propriedade Intelectual.",
+        "description4": "O facto de o Editor não intentar ações legais contra uma utilização não autorizada não constitui de forma alguma uma renúncia aos seus direitos."
+      },
+      "hypertextLinks": {
+        "title": "Links de hipertexto",
+        "intro": "O site Où sortir à Lisbonne pode conter links de hipertexto que redirecionam para sites de terceiros.",
+        "disclaimer": "O Editor não tem qualquer controlo sobre o conteúdo destes sites e não pode ser responsabilizado por:",
+        "list": [
+          "o seu conteúdo",
+          "a sua política de privacidade",
+          "o seu funcionamento",
+          "ou qualquer dano que possa resultar da sua consulta"
+        ],
+        "note": "A criação de links de hipertexto para o site é autorizada desde que não prejudiquem a sua imagem ou os seus interesses."
+      },
+      "liability": {
+        "title": "Responsabilidade",
+        "description": "O Editor esforça-se por fornecer no site informações o mais precisas possível. No entanto, não pode garantir a exatidão, completude ou atualidade das informações divulgadas.",
+        "note": "A utilização do site é da responsabilidade exclusiva do utilizador."
+      },
+      "applicableLaw": {
+        "title": "Direito aplicável",
+        "description": "O presente aviso legal é regido pelo direito francês.",
+        "note": "Em caso de litígio, e na falta de resolução amigável, os tribunais competentes serão os da jurisdição legalmente competente."
+      },
+      "contact": {
+        "title": "Para qualquer questão ou pedido relativo ao site Où sortir à Lisbonne, não hesite em contactar-nos!"
+      }
+    }
+  },
+  "privacyPolicy": {
+    "hero": {
+      "title": "Política de Privacidade",
+      "lastUpdated": "Última atualização: 19/02/2025"
+    },
+    "content": {
+      "intro": {
+        "text1": "Bem-vindo ao Où sair em Lisboa. A proteção dos seus dados é a nossa prioridade. Esta política de privacidade explica como coletamos, utilizamos e protegemos as suas informações pessoais quando utiliza o nosso site www.ousortiralisbonne.com (aqui designado 'o Serviço').",
+        "text2": "Ao aceder ao nosso site e utilizar os nossos serviços, aceita os termos desta política e consente a coleção e utilização dos seus dados pessoais conforme as disposições abaixo."
+      },
+      "whoWeAre": {
+        "title": "1. Quem somos",
+        "description": "O site Où sair em Lisboa é operado por Tania Barros ('nós', 'nosso', 'nossa').",
+        "address": "Endereço: Rua Alto Minho 159, 4770-538 Arnoso Santa Maria",
+        "phone": "Telefone: +351 966 998 827",
+        "email": "Email: contact@ousortiralisbonne.com"
+      },
+      "definitions": {
+        "title": "2. Definições",
+        "service": {
+          "title": "Serviço",
+          "description": "Refere-se ao website Où sair em Lisboa, operado por Tania Barros."
+        },
+        "personalData": {
+          "title": "Dados Pessoais",
+          "description": "Refere-se a qualquer informação que possa identificar uma pessoa viva, diretamente ou indiretamente."
+        },
+        "usageData": {
+          "title": "Dados de Utilização",
+          "description": "Refere-se aos dados coletados automaticamente ao utilizar o Serviço (endereço IP, tipo de navegador, páginas visitadas, etc.)."
+        },
+        "cookies": {
+          "title": "Cookies",
+          "description": "Pequenos ficheiros registados no seu dispositivo para melhorar a sua experiência de utilizador."
+        },
+        "dataController": {
+          "title": "Controlador de Dados",
+          "description": "Refere-se à pessoa ou entidade que determina os fins e os meios de processamento dos dados pessoais. Neste caso, é Tania Barros."
+        }
+      },
+      "dataCollection": {
+        "title": "3. Dados Coletados e a Sua Utilização",
+        "personalData": {
+          "title": "Dados Pessoais",
+          "description": "Quando utiliza o nosso Serviço, podemos coletar as seguintes informações:",
+          "list": [
+            "Nome e sobrenome",
+            "Endereço de email",
+            "Dados de navegação (via cookies e ferramentas analíticas)"
+          ],
+          "note": "Essas informações são coletadas apenas para a gestão do Serviço, melhoria da experiência do utilizador e, se consentir, envio de comunicações de marketing."
+        },
+        "usageData": {
+          "title": "Dados de Utilização",
+          "description": "Também coletamos dados técnicos para melhor entender como utiliza o nosso Serviço:",
+          "list": [
+            "Endereço IP",
+            "Tipo de navegador e versão",
+            "Páginas visitadas e tempo gasto em cada página",
+            "Identificadores únicos do seu dispositivo"
+          ]
+        },
+        "cookies": {
+          "title": "Cookies e Tecnologias de Rastreamento",
+          "description": "Utilizamos cookies para:",
+          "list": [
+            "Melhorar a sua navegação no nosso site",
+            "Armazenar as suas preferências",
+            "Garantir a segurança do Serviço"
+          ],
+          "types": {
+            "title": "Tipos de cookies utilizados:",
+            "session": "Cookies de sessão: garantem o bom funcionamento do Serviço",
+            "preferences": "Cookies de preferências: registam as suas escolhas e definições",
+            "security": "Cookies de segurança: protegem os seus dados contra possíveis ameaças"
+          }
+        }
+      },
+      "legalBasis": {
+        "title": "4. Base Legal para o Processamento de Dados (RGPD)",
+        "description": "Conforme o Regulamento Geral sobre a Proteção de Dados (RGPD), processamos os seus dados pessoais nas seguintes bases:",
+        "list": [
+          {
+            "title": "Execução de um Contrato",
+            "description": "Se precisarmos dos seus dados para lhe fornecer um serviço."
+          },
+          {
+            "title": "Consentimento",
+            "description": "Quando nos dá o seu consentimento para receber as nossas comunicações."
+          },
+          {
+            "title": "Obrigação Legal",
+            "description": "Se a lei nos obrigar a manter certas informações."
+          },
+          {
+            "title": "Interesse Legítimo",
+            "description": "Para melhorar o nosso Serviço sem afectar os seus direitos fundamentais."
+          }
+        ]
+      },
+      "dataRetention": {
+        "title": "5. Conservação dos Dados",
+        "description": "Conservamos os seus dados apenas pelo tempo necessário para os fins para os quais foram coletados:",
+        "list": [
+          "Dados de navegação: duração limitada para análise e segurança",
+          "Dados pessoais: até que solicite a sua eliminação ou conforme as obrigações legais aplicáveis"
+        ]
+      },
+      "dataSharing": {
+        "title": "6. Partilha e Transferência de Dados",
+        "description": "Não vendemos nem alugamos os seus dados pessoais. No entanto, podemos partilhá-los com:",
+        "list": [
+          "Os nossos prestadores de serviços (hospedagem, ferramentas analíticas, emailing)",
+          "As autoridades competentes, se a lei nos obrigar"
+        ],
+        "note": "Tomamos todas as medidas necessárias para garantir a segurança dos seus dados em caso de transferência para fora da UE."
+      },
+      "userRights": {
+        "title": "7. Os Seus Direitos (RGPD)",
+        "description": "Como utilizador do Serviço, tem os seguintes direitos:",
+        "list": [
+          {
+            "title": "Direito de Acesso",
+            "description": "Obter uma cópia dos seus dados pessoais"
+          },
+          {
+            "title": "Direito de Rectificação",
+            "description": "Corrigir informações inexatas"
+          },
+          {
+            "title": "Direito de Eliminação",
+            "description": "Solicitar a eliminação dos seus dados"
+          },
+          {
+            "title": "Direito de Limitação",
+            "description": "Restringir o processamento dos seus dados"
+          },
+          {
+            "title": "Direito de Oposição",
+            "description": "Recusar a utilização dos seus dados"
+          },
+          {
+            "title": "Direito à Portabilidade",
+            "description": "Recuperar os seus dados num formato reutilizável"
+          }
+        ],
+        "contact": "Para exercer esses direitos, contacte-nos em: contact@ousortiralisbonne.com"
+      },
+      "dataSecurity": {
+        "title": "8. Segurança dos Dados",
+        "description": "Implementamos medidas de segurança adequadas para proteger os seus dados contra qualquer perda, roubo ou acesso não autorizado. No entanto, nenhuma transmissão de dados via Internet é completamente segura. Recomendamos que seja vigilante ao partilhar informações online."
+      },
+      "thirdPartyLinks": {
+        "title": "9. Links para Sites de Terceiros",
+        "description": "O nosso Serviço pode conter links para outros websites. Não somos responsáveis pelas políticas de privacidade desses sites e recomendamos que as consulte antes de partilhar as suas informações."
+      },
+      "dataDisclosure": {
+        "title": "10. Comunicação de Dados às Forças de Segurança",
+        "description": "Em certos casos, poderemos ser obrigados a divulgar os seus dados pessoais se a lei o exigir ou em resposta a pedidos legítimos das autoridades públicas."
+      },
+      "policyUpdates": {
+        "title": "11. Modificações a Esta Política",
+        "description": "Reservamo-nos o direito de modificar esta Política de Privacidade a qualquer momento. Qualquer atualização será publicada nesta página com uma nova data de atualização.",
+        "note": "Encorajamos-o a rever regularmente esta página para se manter informado."
+      },
+      "contact": {
+        "title": "12. Contacto",
+        "description": "Se tiver alguma dúvida ou quiser exercer os seus direitos relativamente aos seus dados pessoais, pode contactar-nos:",
+        "email": "Email: contact@ousortiralisbonne.com",
+        "phone": "Telefone: +351 966 998 827"
+      },
+      "acceptance": {
+        "title": "Ao utilizar Où sair em Lisboa, aceita a nossa Política de Privacidade e os nossos termos de utilização."
+      }
+    }
+  },
+
+  "terms": {
+    "hero": {
+      "title": "Condições Gerais de Venda",
+      "subtitle": "ONDE SAIR EM LISBOA",
+      "lastUpdated": "Última atualização: 15 de dezembro de 2025"
+    },
+    "content": {
+      "presentation": {
+        "title": "1. Apresentação",
+        "text1": "As presentes Condições Gerais de Venda (doravante \"CGV\") regem a utilização do site Où sortir à Lisbonne, bem como a reserva de serviços oferecidos através do mesmo.",
+        "text2": "Os termos \"nós\", \"nosso\" ou \"Où sortir à Lisbonne\" referem-se a:",
+        "text3": "Tania Barros, empresária independente (ID 280054785), e seus parceiros.",
+        "text4": "O termo \"utilizador\" ou \"cliente\" refere-se a qualquer pessoa que navegue no site ou reserve um serviço.",
+        "text5": "Qualquer utilização do site ou reserva implica a aceitação plena e completa das presentes CGV."
+      },
+      "siteObject": {
+        "title": "2. Objeto do site",
+        "description": "O site Où sortir à Lisbonne tem como objetivo:",
+        "list": [
+          "apresentar atividades, saídas e experiências em Lisboa",
+          "oferecer serviços de ligação com prestadores locais",
+          "facilitar a reserva de experiências turísticas ou de eventos",
+          "fornecer conselhos, recomendações e conteúdos informativos"
+        ]
+      },
+      "acceptance": {
+        "title": "3. Aceitação das condições",
+        "text1": "A utilização do site implica a aceitação das presentes CGV, bem como da Política de Privacidade.",
+        "text2": "Estas condições podem ser modificadas a qualquer momento.",
+        "text3": "A versão aplicável é a que está em vigor na data da navegação ou da reserva."
+      },
+      "siteUsage": {
+        "title": "4. Utilização do site",
+        "description": "O utilizador compromete-se a:",
+        "list": [
+          "fornecer informações exatas e atualizadas",
+          "utilizar o site para fins pessoais e não fraudulentos",
+          "não prejudicar o bom funcionamento do site"
+        ],
+        "consequence": "Qualquer utilização abusiva, fraudulenta ou ilegal pode resultar na suspensão do acesso ao site."
+      },
+      "reservations": {
+        "title": "5. Reservas e prestações",
+        "subtitle1": "5.1 Funcionamento",
+        "text1": "As reservas efetuadas através do site dizem respeito a:",
+        "list1": [
+          "experiências turísticas",
+          "atividades de lazer",
+          "serviços organizados por parceiros terceiros"
+        ],
+        "intermediary": "\"Où sortir à Lisbonne\" atua como intermediário e facilitador entre o cliente e os prestadores.",
+        "subtitle2": "5.2 Validação da reserva",
+        "text2": "Uma reserva é considerada efetiva uma vez que:",
+        "list2": [
+          "o pedido tenha sido validado",
+          "o pagamento tenha sido efetuado (se aplicável)",
+          "a confirmação tenha sido enviada por email"
+        ],
+        "subtitle3": "5.3 Prestadores terceiros",
+        "text3": "Os serviços são prestados por parceiros independentes.",
+        "text4": "\"Où sortir à Lisbonne\" não pode ser responsabilizado pela má execução de um serviço por parte de um terceiro, mas compromete-se a apoiar o cliente em caso de litígio."
+      },
+      "pricing": {
+        "title": "6. Preços e pagamento",
+        "text1": "Os preços são indicados em euros (€) e podem ser:",
+        "list": [
+          "fixos",
+          "variáveis conforme o serviço",
+          "sujeitos a condições específicas"
+        ],
+        "text2": "O pagamento é efetuado através de prestadores de pagamento seguros.",
+        "text3": "As informações bancárias nunca são armazenadas por \"Où sortir à Lisbonne\"."
+      },
+      "withdrawal": {
+        "title": "7. Direito de retratação",
+        "text1": "Em conformidade com o artigo L221-28 do Código do Consumo, o direito de retratação não se aplica a:",
+        "list": [
+          "serviços datados",
+          "atividades de lazer fornecidas numa data específica",
+          "serviços executados imediatamente após a reserva"
+        ],
+        "text2": "Nenhum reembolso pode ser exigido, exceto indicação contrária ou caso excecional."
+      },
+      "cancellation": {
+        "title": "8. Cancelamento e modificação",
+        "text1": "As condições de cancelamento dependem de cada serviço e são especificadas no momento da reserva.",
+        "text2": "Em caso de cancelamento pelo prestador, uma solução de substituição ou reembolso pode ser oferecido."
+      },
+      "liability": {
+        "title": "9. Responsabilidade",
+        "description": "\"Où sortir à Lisbonne\":",
+        "list": [
+          "não garante a exatidão absoluta das informações publicadas",
+          "não pode ser responsabilizado por danos relacionados com um serviço prestado por terceiros",
+          "não é responsável pelas decisões tomadas pelo utilizador com base nas informações do site"
+        ],
+        "note": "O utilizador permanece responsável pelo seu comportamento durante as atividades reservadas."
+      },
+      "intellectualProperty": {
+        "title": "10. Propriedade intelectual",
+        "text1": "Todo o conteúdo do site (textos, visuais, logótipos, vídeos, estrutura) está protegido pelo direito de propriedade intelectual.",
+        "text2": "Qualquer reprodução, distribuição ou utilização sem autorização escrita é estritamente proibida."
+      },
+      "personalData": {
+        "title": "11. Dados pessoais",
+        "text1": "Os dados pessoais recolhidos são tratados em conformidade com a Política de Privacidade do site.",
+        "text2": "O utilizador tem direito a:",
+        "list": [
+          "acesso",
+          "retificação",
+          "eliminação",
+          "oposição"
+        ],
+        "contact": "Qualquer pedido pode ser enviado para:",
+        "email": "contact@ousortiralisbonne.com"
+      },
+      "electronicCommunications": {
+        "title": "12. Comunicações eletrónicas",
+        "text1": "Ao utilizar o site, o utilizador aceita receber comunicações por email relacionadas com:",
+        "list": [
+          "as suas reservas",
+          "informações práticas",
+          "ofertas ou novidades"
+        ],
+        "text2": "Pode cancelar a subscrição a qualquer momento."
+      },
+      "mediation": {
+        "title": "13. Mediação e litígios",
+        "text1": "Em caso de litígio com um prestador, \"Où sortir à Lisbonne\" atua como intermediário para facilitar uma resolução amigável.",
+        "text2": "Na falta de acordo amigável, o litígio será submetido à lei aplicável."
+      },
+      "applicableLaw": {
+        "title": "14. Lei aplicável",
+        "text1": "As presentes CGV são regidas pela lei francesa.",
+        "text2": "Qualquer litígio é da competência dos tribunais competentes."
+      }
+    }
+  },
+  "onquote": "Na cotação",
+  "onrdv": "Por marcação",
+  "variable": "Variável",
+  "free": "Livre",
+  "viewdetails": "Ver detalhes",
+  "freedrink": "1 bebida incluída",
+  "telluseverything": "Conte-nos tudo",
+  "firstname": "Primeiro nome",
+  "lastname": "Sobrenome",
+  "emptyfilteredlist": "Nenhum passeio de barco corresponde aos seus filtros. Experimente com outros!",
+  "yes": "Sim",
+  "no": "Não",
+  "recontactPreference": "Você gostaria de ser contatado?",
+  "custom": "Personalizado",
+  "rightsreserved": "Todos os direitos reservados",
+  "withlove": "Projetado com amor por",
+  "subscribenews": "Gostaria de subscrever a newsletter",
+  "language": "Linguagem",
+  "languages": {
+    "de": "Alemão",
+    "en": "Inglês",
+    "it": "Italiano",
+    "fr": "Francês",
+    "pt": "Português",
+    "es": "Espanhol",
+    "other": "Outro"
+  },
+  "addReturnTransfer": "Adicionar Transferência de Retorno",
+  "returnDate": "Data de Retorno",
+  "romanticinclusion": "Noite a bordo por 575€ com refeição incluída",
+  "guidLanguage": "Idioma do guia",
+  "otherDate": "Outra data",
+  "withequipage": "Com tripulação? (+70€)",
+  "vehicleOptions": {
+    "decapotable": "Decapotable Opel Astra até 3 passageiros (230€)",
+    "combi": "Combi Volkswagen de 1970 até 5 passageiros (95€ por pessoa)",
+    "van": "Van até 8 passageiros (preço ajustado pelo número de passageiros)",
+    "minibus": "Minibus de 9 a 19 passageiros",
+    "bus": "Ônibus de 23 a 63 passageiros (orçamento sob solicitação)"
+  },
+  "vehicleFormulas": {
+    "van": {
+      "2": "2 passageiros (180€ motorista / 220€ motorista-guia)",
+      "3": "3 passageiros (190€ motorista / 250€ motorista-guia)",
+      "4": "4 passageiros (220€ motorista / 280€ motorista-guia)",
+      "5": "5 passageiros (245€ motorista / 300€ motorista-guia)",
+      "6": "6 passageiros (270€ motorista / 320€ motorista-guia)",
+      "7": "7 ou 8 passageiros (300€ motorista / 350€ motorista-guia)"
+    },
+    "minibus": {
+      "16": "Até 16 passageiros - 560€ motorista / 800€ motorista + guia",
+      "19": "Até 19 passageiros - 640€ motorista / 880€ motorista + guia"
+    }
+  },
+  "engagement": "Com um compromisso de 12 meses",
+  "cruiseModal": {
+    "reserve": "Reservar",
+    "success": {
+      "title": "Reserva bem-sucedida",
+      "message": "Sua reserva foi enviada com sucesso."
+    },
+    "close": "Fechar",
+    "form": {
+      "participants": "Número máximo de participantes",
+      "date": "Data desejada",
+      "secondDate": "Outra data possível",
+      "departureTime": "Hora de partida desejada",
+      "duration": "Número de horas desejadas",
+      "boatTypes": "Qual(is) tipo(s) de embarcação(es) você prefere?",
+      "criteria": "Quais são os 2 critérios mais importantes a serem respeitados?",
+      "event": "Isso é para um evento específico?",
+      "extras": "Receber informações sobre os seguintes extras:",
+      "experiences": "Receber informações sobre as seguintes experiências:",
+      "submit": "Enviar"
+    },
+    "boatTypes": {
+      "voilier": "Veleiro",
+      "catamaran": "Catamarã",
+      "yacht": "Iate",
+      "peuImporte": "Não importa",
+      "ceBateau": "Este barco especificamente"
+    },
+    "criteria": {
+      "date": "A data",
+      "creneau": "O horário",
+      "tarif": "O melhor preço",
+      "service": "Serviço premium",
+      "type": "Tipo de embarcação",
+      "autre": "Outro"
+    },
+    "extras": {
+      "boissons": "Trazer bebidas e comida / taxa de garrafa",
+      "openBar": "Bebidas / Open bar",
+      "snacks": "Lanches, queijos, charcutarias...",
+      "reception": "Recepção, buffet, Menu...",
+      "barbecue": "Churrasco (experiência de 4h mínimo)",
+      "brunch": "Brunch",
+      "fruitsDeMer": "Frutos do mar",
+      "gateau": "Bolo de aniversário",
+      "sushi": "Sushi",
+      "vegetarien": "Vegetariano - Vegano",
+      "autre": "Outro"
+    },
+    "experiences": {
+      "romantique": "Ambiência romântica",
+      "evg": "Ambiência especial EVG/EVJF (strip tease/topless...)",
+      "barman": "Barman / Coquetéis",
+      "boatParty": "Boat Party com DJ",
+      "fado": "Fado ou música ao vivo",
+      "guide": "Guia francófono / tripulação francófona",
+      "nuits": "Noite(s) ou vários dias a bordo",
+      "photographe": "Fotógrafo / Videógrafo",
+      "peche": "Pesca 🎣",
+      "planche": "Prancha de paddle / Boia",
+      "teamBuilding": "Especial Team Building",
+      "sushiMan": "Sushi Man",
+      "autre": "Outro"
+    }
+  },
+  "cookieConsent": {
+    "title": "🍪 Usamos cookies",
+    "description": "Usamos cookies para melhorar a sua experiência no nosso site. Estes cookies permitem-nos analisar o tráfego, personalizar conteúdo e publicidade, e oferecer funcionalidades de redes sociais.",
+    "privacyLink": "Política de Privacidade",
+    "legalLink": "Aviso Legal",
+    "decline": "Recusar",
+    "accept": "Aceitar"
+  },
+  "whatsapp": {
+    "defaultMessage": "Olá Tania, estou entrando em contato através do seu site Onde Sair em Lisboa.",
+    "ariaLabel": "Contactar pelo WhatsApp",
+    "contactText": "Contactar Tania"
+  },
+  "loading": {
+    "logoAlt": "Logo Onde Sair em Lisboa"
+  },
+  "tourFilters": {
+    "title": "Filtros",
+    "reset": "Reiniciar",
+    "city": "Cidade",
+    "transport": "Transporte",
+    "type": "Tipo",
+    "noResults": "Nenhuma visita corresponde aos seus filtros. Tente outros critérios!",
+    "cities": {
+      "lisbon": "Lisboa",
+      "cascais": "Cascais",
+      "sintra": "Sintra",
+      "arrabida": "Arrábida",
+      "other": "Outro"
+    },
+    "transports": {
+      "foot": "A pé",
+      "bike": "De bicicleta",
+      "tuktuk": "De tuktuk",
+      "sidecar": "De sidecar",
+      "vehicle": "De veículo",
+      "boat": "De barco",
+      "helicopter": "Helicóptero"
+    },
+    "types": {
+      "cultural": "Cultural",
+      "historical": "Histórica",
+      "streetart": "Street Art",
+      "gastronomic": "Gastronómica",
+      "other": "Outro"
+    }
+  },
+  "membershipModal": {
+    "consent": {
+      "label": "Eu aceito os",
+      "terms": "Termos e Condições",
+      "privacy": "Política de Privacidade"
+    }
+  },
+  "sunsetCruise": {
+    "title": "Opções de cruzeiro ao pôr do sol",
+    "description": "Escolha entre as nossas diferentes opções de cruzeiro ao pôr do sol:",
+    "calm": "Calmo",
+    "sailboat": "Veleiro (12 pessoas)",
+    "catamaran18": "Catamarã (18 pessoas)",
+    "yacht": "Iate (25 pessoas)",
+    "festive": "Festivo",
+    "catamaran60": "Catamarã (60 pessoas)",
+    "motorboat": "Barco a motor (220 pessoas)",
+    "boatParty": "Festa no barco",
+    "boatPartyLink": "Festa no barco aos sábados de verão",
+    "voilier6": "Veleiro 6 lugares a partir de 170€ por 2h30 (pôr do sol + 30€)",
+    "catamaran8": "Catamarã 8 lugares a partir de 180€ por 2h",
+    "voilier10": "Veleiro 10 lugares a partir de 300€ por 2h",
+    "catamaran188": "Catamarã 18 lugares a partir de 650€ por 2h"
+  },
+  "seoContent": {
+    "restaurants": {
+      "title": "Os Melhores Restaurantes em Lisboa 2025",
+      "intro": "Descubra a nossa seleção dos melhores restaurantes de Lisboa, cuidadosamente escolhidos pela nossa equipa de guias locais. Da cozinha portuguesa tradicional às mesas gastronómicas estreladas, passando pelos endereços escondidos da Alfama e do Chiado, encontre o restaurante perfeito para a sua noite em Lisboa.",
+      "sections": {
+        "traditional": {
+          "title": "Restaurantes Portugueses Tradicionais",
+          "content": "Lisboa está repleta de tascas e restaurantes tradicionais onde pode saborear o famoso bacalhau, as sardinhas grelhadas ou o cozido à portuguesa. As nossas recomendações guiam-no até aos endereços autênticos onde os próprios lisboetas se reúnem para apreciar a cozinha das suas avós."
+        },
+        "view": {
+          "title": "Restaurantes com Vista para o Tejo",
+          "content": "Para uma experiência inesquecível, opte por um restaurante com vista para o Tejo ou para os telhados de Lisboa. Dos terraços de Belém aos rooftops do Bairro Alto, descubra os panoramas mais bonitos da capital portuguesa enquanto saboreia pratos refinados."
+        },
+        "budget": {
+          "title": "Onde Comer Barato em Lisboa",
+          "content": "Comer bem em Lisboa não significa necessariamente gastar muito. Selecionamos endereços com excelente relação qualidade-preço, desde cantinas de bairro a restaurantes de almoço com menu do dia por menos de 10€."
+        }
+      },
+      "faqTitle": "Perguntas Frequentes sobre Restaurantes em Lisboa",
+      "faqs": {
+        "best": {
+          "question": "Qual é o melhor restaurante em Lisboa?",
+          "answer": "O melhor restaurante depende dos seus gostos! Para cozinha portuguesa tradicional, recomendamos os restaurantes da Alfama. Para gastronomia moderna, os restaurantes do Chiado e Príncipe Real oferecem experiências excepcionais. Consulte a nossa seleção para encontrar o endereço que corresponde aos seus desejos."
+        },
+        "cheap": {
+          "question": "Onde comer barato em Lisboa?",
+          "answer": "Para comer barato em Lisboa, procure restaurantes que oferecem 'menu do dia' entre 8€ e 12€. Os bairros da Mouraria e Intendente oferecem excelentes opções económicas. As tascas tradicionais também servem pratos fartos a preços baixos."
+        },
+        "neighborhood": {
+          "question": "Qual bairro escolher para comer em Lisboa?",
+          "answer": "Cada bairro tem a sua personalidade: a Alfama para autenticidade e fado, o Chiado e Bairro Alto para ambiente trendy, Belém para vistas do Tejo, e Santos/Cais do Sodré para conceitos modernos. O Príncipe Real atrai os foodies com os seus restaurantes criativos."
+        },
+        "reservation": {
+          "question": "Devo reservar com antecedência nos restaurantes de Lisboa?",
+          "answer": "Recomendamos fortemente reservar, especialmente aos fins de semana e para restaurantes populares. Muitos bons endereços são pequenos e enchem rapidamente. Podemos ajudá-lo a reservar nos nossos restaurantes parceiros."
+        }
+      }
+    },
+    "hotels": {
+      "title": "Os Melhores Hotéis em Lisboa 2025 - Guia Completo",
+      "intro": "Encontre o alojamento ideal para a sua estadia em Lisboa com a nossa seleção de hotéis testados e aprovados. Dos boutique hotéis de charme aos palácios de 5 estrelas, passando pelos hostels de design, descubra os melhores endereços para dormir na capital portuguesa.",
+      "sections": {
+        "luxury": {
+          "title": "Hotéis de Luxo no Centro de Lisboa",
+          "content": "Lisboa conta com magníficos hotéis de 5 estrelas, frequentemente instalados em edifícios históricos renovados com bom gosto. A Avenida da Liberdade, os Campos Elísios lisboetas, concentra os mais belos palácios da cidade, oferecendo serviço impecável e localizações privilegiadas."
+        },
+        "boutique": {
+          "title": "Boutique Hotéis na Alfama",
+          "content": "O bairro da Alfama, o mais antigo de Lisboa, abriga boutique hotéis cheios de charme instalados em casas tradicionais. Acorde ao som do fado e desfrute de vistas deslumbrantes sobre o Tejo a partir destes endereços intimistas."
+        },
+        "budget": {
+          "title": "Hotéis Baratos Bem Localizados",
+          "content": "É possível encontrar hotéis acessíveis bem localizados em Lisboa. Os bairros da Baixa, Restauradores e Marquês de Pombal oferecem boas opções a preços razoáveis, com fácil acesso ao metro e às principais atrações."
+        }
+      },
+      "faqTitle": "Perguntas Frequentes sobre Hotéis em Lisboa",
+      "faqs": {
+        "neighborhood": {
+          "question": "Qual bairro escolher para ficar em Lisboa?",
+          "answer": "Para uma primeira visita, a Baixa (centro histórico) é ideal com monumentos a pé. A Alfama oferece autenticidade e vistas panorâmicas. O Bairro Alto convém aos notívagos. O Chiado e Príncipe Real são perfeitos para compras e restaurantes. Belém é mais calmo, ideal para famílias."
+        },
+        "budget": {
+          "question": "Qual orçamento prever para um hotel em Lisboa?",
+          "answer": "Os preços variam conforme a época: conte 60-100€/noite para um 3 estrelas decente, 120-200€ para um 4 estrelas bem localizado, e 250€+ para luxo. Na época alta (abril-outubro), os preços aumentam 20-30%. Reserve 2-3 meses antes para melhores tarifas."
+        },
+        "when": {
+          "question": "Quando reservar o hotel em Lisboa?",
+          "answer": "Reserve o mais cedo possível, especialmente para períodos de pico (Páscoa, verão, festas dos santos populares em junho). 3-4 meses antes é recomendado para ter a melhor escolha. Para eventos especiais como Web Summit, reserve 6 meses antes."
+        },
+        "transport": {
+          "question": "Os hotéis do centro têm boas ligações?",
+          "answer": "Sim, o centro de Lisboa é muito bem servido por metro, autocarros e os famosos elétricos. A maioria dos hotéis está a curta distância das principais atrações. Também oferecemos transfers privados desde o aeroporto."
+        }
+      }
+    },
+    "bars": {
+      "title": "Melhores Bares em Lisboa - Rooftops, Cocktails & Vida Noturna",
+      "intro": "Explore a vibrante vida noturna de Lisboa através da nossa seleção dos melhores bares da cidade. Dos rooftops com vistas espetaculares aos bares de cocktails intimistas do Bairro Alto, passando pelos bares de vinhos tradicionais, descubra onde beber um copo em Lisboa.",
+      "sections": {
+        "rooftops": {
+          "title": "Rooftops com Vista Panorâmica",
+          "content": "Lisboa é famosa pelos seus miradouros e os seus rooftop bars oferecem as mesmas vistas espetaculares com um cocktail na mão. Do PARK bar num parque de estacionamento transformado aos terraços dos grandes hotéis, desfrute do pôr do sol sobre o Tejo num cenário mágico."
+        },
+        "cocktails": {
+          "title": "Bares de Cocktails Modernos",
+          "content": "A cena de cocktails de Lisboa cresceu consideravelmente nos últimos anos. Dos speakeasies escondidos aos bares de hotéis prestigiados, os mixologistas lisboetas rivalizam em criatividade para propor cocktails inovadores que misturam ingredientes locais e técnicas modernas."
+        },
+        "traditional": {
+          "title": "Bares Autênticos do Bairro Alto",
+          "content": "O Bairro Alto continua a ser o coração da vida noturna lisboeta. As suas ruelas estão cheias de pequenos bares tradicionais onde os locais se encontram para beber um copo na esplanada. O ambiente é acolhedor, os preços acessíveis e a atmosfera incomparável."
+        }
+      },
+      "faqTitle": "Perguntas Frequentes sobre Bares em Lisboa",
+      "faqs": {
+        "best": {
+          "question": "Quais são os melhores bares rooftop em Lisboa?",
+          "answer": "Entre os imperdíveis: PARK Bar (vista da Ponte 25 de Abril), Sky Bar (hotel Tivoli), Rooftop Bar do Hotel Mundial (vista do castelo), e Limão (Santos). Cada um oferece um ambiente diferente, do mais descontraído ao mais chique."
+        },
+        "neighborhood": {
+          "question": "Qual bairro para sair à noite em Lisboa?",
+          "answer": "O Bairro Alto é o bairro histórico da festa com dezenas de bares. Cais do Sodré e Pink Street atraem uma clientela mais jovem e moderna. O LX Factory propõe um ambiente alternativo. Santos-o-Velho seduz os trinta-e-tais com os seus bares lounge."
+        },
+        "hours": {
+          "question": "Até que horas se pode sair em Lisboa?",
+          "answer": "Os bares fecham geralmente entre as 2h e as 4h da manhã. Os clubes ficam abertos até às 6h ou mais. A vida noturna começa tarde em Lisboa - os portugueses jantam por volta das 21h-22h e raramente saem antes da meia-noite."
+        },
+        "prices": {
+          "question": "Qual orçamento prever para uma noite em Lisboa?",
+          "answer": "Uma cerveja custa cerca de 2-4€, um cocktail 8-12€ dependendo do bar. Os rooftops são mais caros (10-15€ por cocktail). O Bairro Alto continua a ser o mais económico. Conte 30-50€ para uma boa noite incluindo algumas bebidas."
+        }
+      }
+    },
+    "guidedTours": {
+      "title": "Visitas Guiadas em Lisboa - Tours Privados & Grupos",
+      "intro": "Descubra Lisboa como um local com as nossas visitas guiadas. Os nossos guias apaixonados levam-no a descobrir os tesouros escondidos da cidade, desde a fascinante história de Sintra às ruelas coloridas da Alfama. Tours privados, excursões em pequeno grupo ou dias completos: encontre a fórmula que lhe convém.",
+      "sections": {
+        "private": {
+          "title": "Visitas Privadas Personalizadas",
+          "content": "Os nossos tours privados adaptam-se aos seus desejos e ao seu ritmo. Quer queira aprofundar a história marítima de Portugal, explorar a gastronomia local ou seguir os passos do fado, os nossos guias criam uma experiência à medida para si. Ideal para famílias, casais ou grupos de amigos."
+        },
+        "group": {
+          "title": "Tours em Pequeno Grupo",
+          "content": "Junte-se às nossas visitas guiadas em pequeno grupo (máximo 8 pessoas) para uma experiência convivial a um preço acessível. Uma oportunidade de conhecer outros viajantes enquanto beneficia de atenção personalizada do seu guia."
+        },
+        "dayTrips": {
+          "title": "Excursões de Um Dia desde Lisboa",
+          "content": "A região de Lisboa está repleta de maravilhas para descobrir num dia: os palácios de conto de fadas de Sintra (UNESCO), as praias selvagens de Cascais, as vinhas do vale do Tejo ou os golfinhos de Setúbal. Organizamos a sua excursão perfeita com transporte e guia incluídos."
+        }
+      },
+      "faqTitle": "Perguntas Frequentes sobre Visitas Guiadas",
+      "faqs": {
+        "french": {
+          "question": "Oferecem visitas guiadas em francês?",
+          "answer": "Sim, todas as nossas visitas estão disponíveis em francês com guias francófonos apaixonados. Também oferecemos guias em inglês e português a pedido. Os nossos guias são todos especialistas locais que vivem em Lisboa."
+        },
+        "sintra": {
+          "question": "Como visitar Sintra desde Lisboa?",
+          "answer": "Sintra fica a 40 min de Lisboa. Oferecemos excursões de dia incluindo transporte, guia e entradas nos palácios. Visitará o Palácio da Pena, o Castelo dos Mouros e a Quinta da Regaleira conforme a fórmula escolhida."
+        },
+        "duration": {
+          "question": "Quanto tempo dura uma visita guiada?",
+          "answer": "As nossas visitas a Lisboa duram de 3h (bairro específico) a 6h (cidade completa). As excursões a Sintra, Cascais ou Setúbal são dias completos de 7-8h. Também oferecemos fórmulas de vários dias para explorar a região."
+        },
+        "booking": {
+          "question": "Como reservar uma visita guiada?",
+          "answer": "Reserve diretamente no nosso site ou contacte-nos por email/WhatsApp. Recomendamos reservar com pelo menos 2-3 dias de antecedência, mais na época alta. Um sinal de 30% confirma a sua reserva, o restante paga-se no dia da visita."
+        }
+      }
+    }
+  }
+}
