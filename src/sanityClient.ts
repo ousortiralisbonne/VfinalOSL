@@ -5,10 +5,16 @@ import { createClient } from "@sanity/client";
 const sanityToken = import.meta.env.VITE_SANITY_TOKEN;
 const hasToken = !!sanityToken;
 
+// En production, toujours désactiver le CDN pour éviter les problèmes CORS
+// Le CDN Sanity nécessite que le domaine soit dans les CORS origins
+// L'API directe avec token contourne cette restriction
+const isProduction = import.meta.env.PROD;
+
 // Désactiver le CDN si :
-// 1. Un token est présent (obligatoire pour éviter CORS avec token)
-// 2. Ou si explicitement désactivé via VITE_SANITY_USE_CDN=false
-const useCdn = !hasToken && import.meta.env.VITE_SANITY_USE_CDN !== "false";
+// 1. En production (pour éviter CORS)
+// 2. Un token est présent (obligatoire pour éviter CORS avec token)
+// 3. Ou si explicitement désactivé via VITE_SANITY_USE_CDN=false
+const useCdn = !isProduction && !hasToken && import.meta.env.VITE_SANITY_USE_CDN !== "false";
 
 // Log pour déboguer en développement
 if (import.meta.env.DEV) {
