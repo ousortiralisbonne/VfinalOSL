@@ -1,7 +1,9 @@
 import { createClient } from "@sanity/client";
 
-// Désactiver le CDN si problème CORS (utiliser l'API directe)
-const useCdn = import.meta.env.VITE_SANITY_USE_CDN !== "false";
+// Si un token est fourni, désactiver le CDN pour éviter les problèmes CORS
+// L'API directe avec token contourne les restrictions CORS
+const hasToken = !!import.meta.env.VITE_SANITY_TOKEN;
+const useCdn = import.meta.env.VITE_SANITY_USE_CDN !== "false" && !hasToken;
 
 const sanityClient = createClient({
   projectId: import.meta.env.VITE_SANITY_PROJECT_ID || "z8eiwrv2",

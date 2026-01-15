@@ -23,35 +23,27 @@ Accédez au studio Sanity et configurez les paramètres CORS :
    - `http://localhost:5173`
    - `http://localhost:5174`
    - `http://localhost:3000`
-   - Votre domaine de production
+   - Votre domaine de production (ex: `https://oslisboa.vercel.app`)
+   - Votre domaine Vercel avec wildcard (ex: `https://*.vercel.app`)
 
-### 2. Alternative : Utiliser un token API
+### 2. Utiliser un token API (Recommandé pour la production)
 
-Si les paramètres CORS ne fonctionnent pas, utilisez un token API :
+**Important** : Avec un token API, le client Sanity utilise automatiquement l'API directe au lieu du CDN, ce qui contourne les restrictions CORS.
 
 1. **Créer un token API** :
    - Dans Sanity Studio → Settings → API
    - Cliquer sur "Add API token"
    - Nommer le token (ex: "Frontend Access")
-   - Sélectionner "Read" permissions
+   - Sélectionner **"Viewer"** permissions (lecture seule)
    - Copier le token généré
 
-2. **Configurer le token** :
-   ```bash
-   # Créer un fichier .env.local
-   echo "VITE_SANITY_TOKEN=your_token_here" > .env.local
-   ```
+2. **Configurer le token dans Vercel** :
+   - Aller dans votre projet Vercel → Settings → Environment Variables
+   - Ajouter : `VITE_SANITY_TOKEN` = votre token
+   - Sélectionner tous les environnements (Production, Preview, Development)
+   - Redéployer l'application
 
-3. **Mettre à jour sanityClient.ts** :
-   ```typescript
-   const sanityClient = createClient({
-     projectId: "z8eiwrv2",
-     dataset: "production",
-     apiVersion: "2023-05-03",
-     useCdn: true,
-     token: import.meta.env.VITE_SANITY_TOKEN,
-   });
-   ```
+3. **Le client Sanity détecte automatiquement le token** et désactive le CDN pour utiliser l'API directe, ce qui résout les problèmes CORS.
 
 ### 3. Vérification du dataset
 
